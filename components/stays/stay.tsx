@@ -5,6 +5,20 @@ import Ionicon from 'react-native-vector-icons/Ionicons';
 
 const Stay: React.FC = () => {
   const [currentIndex, setCurrentIndex] = useState(0);
+  const [favorites, setFavorites] = useState<boolean[]>(Array(stays.length).fill(false));
+
+  const handleScroll = (event: any) => {
+    const scrollPosition = event.nativeEvent.contentOffset.x;
+    const screenWidth = Dimensions.get('window').width;
+    const newIndex = Math.round(scrollPosition / screenWidth);
+    setCurrentIndex(newIndex);
+  };
+
+  const toggleFavorite = (index: number) => {
+    const updatedFavorites = [...favorites];
+    updatedFavorites[index] = !updatedFavorites[index];
+    setFavorites(updatedFavorites);
+  };
 
   const styles = StyleSheet.create({
     container: {
