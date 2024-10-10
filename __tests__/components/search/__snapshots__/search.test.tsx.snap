@@ -1,0 +1,143 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchBar Component renders correctly 1`] = `
+<View
+  style={
+    {
+      "alignItems": "center",
+      "borderColor": "rgba(103, 80, 164, 1)",
+      "borderRadius": 20,
+      "borderWidth": 1,
+      "flexDirection": "row",
+      "height": 60,
+      "justifyContent": "flex-start",
+      "paddingHorizontal": 20,
+    }
+  }
+>
+  <Text
+    allowFontScaling={false}
+    selectable={false}
+    style={
+      [
+        {
+          "color": undefined,
+          "fontSize": 36,
+        },
+        {
+          "paddingRight": 20,
+        },
+        {
+          "fontFamily": "Feather",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+        {},
+      ]
+    }
+  >
+    
+  </Text>
+  <View
+    style={
+      {
+        "justifyContent": "space-evenly",
+      }
+    }
+  >
+    <Text
+      style={
+        {
+          "fontSize": 18,
+          "fontWeight": "700",
+        }
+      }
+    >
+      Where to?
+    </Text>
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+        }
+      }
+    >
+      <Text
+        style={
+          {
+            "color": "grey",
+          }
+        }
+      >
+        Anywhere
+      </Text>
+      <Text
+        allowFontScaling={false}
+        selectable={false}
+        style={
+          [
+            {
+              "color": undefined,
+              "fontSize": 12,
+            },
+            {
+              "marginHorizontal": 20,
+            },
+            {
+              "fontFamily": "Octicons",
+              "fontStyle": "normal",
+              "fontWeight": "normal",
+            },
+            {},
+          ]
+        }
+      >
+        
+      </Text>
+      <Text
+        style={
+          {
+            "color": "grey",
+          }
+        }
+      >
+        Any week
+      </Text>
+      <Text
+        allowFontScaling={false}
+        selectable={false}
+        style={
+          [
+            {
+              "color": undefined,
+              "fontSize": 12,
+            },
+            {
+              "marginHorizontal": 20,
+            },
+            {
+              "fontFamily": "Octicons",
+              "fontStyle": "normal",
+              "fontWeight": "normal",
+            },
+            {},
+          ]
+        }
+      >
+        
+      </Text>
+      <Text
+        style={
+          {
+            "color": "grey",
+          }
+        }
+      >
+        Add guests
+      </Text>
+    </View>
+  </View>
+</View>
+`;

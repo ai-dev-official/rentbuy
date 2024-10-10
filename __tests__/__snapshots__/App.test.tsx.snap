@@ -1,0 +1,6160 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<RCTSafeAreaView
+  style={
+    {
+      "alignItems": "center",
+      "flex": 1,
+      "justifyContent": "center",
+      "padding": 20,
+    }
+  }
+>
+  <View
+    style={
+      {
+        "height": 1284,
+        "padding": 20,
+        "width": 750,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "borderColor": "rgba(103, 80, 164, 1)",
+          "borderRadius": 20,
+          "borderWidth": 1,
+          "flexDirection": "row",
+          "height": 60,
+          "justifyContent": "flex-start",
+          "paddingHorizontal": 20,
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        selectable={false}
+        style={
+          [
+            {
+              "color": undefined,
+              "fontSize": 36,
+            },
+            {
+              "paddingRight": 20,
+            },
+            {
+              "fontFamily": "Feather",
+              "fontStyle": "normal",
+              "fontWeight": "normal",
+            },
+            {},
+          ]
+        }
+      >
+        
+      </Text>
+      <View
+        style={
+          {
+            "justifyContent": "space-evenly",
+          }
+        }
+      >
+        <Text
+          style={
+            {
+              "fontSize": 18,
+              "fontWeight": "700",
+            }
+          }
+        >
+          Where to?
+        </Text>
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+            }
+          }
+        >
+          <Text
+            style={
+              {
+                "color": "grey",
+              }
+            }
+          >
+            Anywhere
+          </Text>
+          <Text
+            allowFontScaling={false}
+            selectable={false}
+            style={
+              [
+                {
+                  "color": undefined,
+                  "fontSize": 12,
+                },
+                {
+                  "marginHorizontal": 20,
+                },
+                {
+                  "fontFamily": "Octicons",
+                  "fontStyle": "normal",
+                  "fontWeight": "normal",
+                },
+                {},
+              ]
+            }
+          >
+            
+          </Text>
+          <Text
+            style={
+              {
+                "color": "grey",
+              }
+            }
+          >
+            Any week
+          </Text>
+          <Text
+            allowFontScaling={false}
+            selectable={false}
+            style={
+              [
+                {
+                  "color": undefined,
+                  "fontSize": 12,
+                },
+                {
+                  "marginHorizontal": 20,
+                },
+                {
+                  "fontFamily": "Octicons",
+                  "fontStyle": "normal",
+                  "fontWeight": "normal",
+                },
+                {},
+              ]
+            }
+          >
+            
+          </Text>
+          <Text
+            style={
+              {
+                "color": "grey",
+              }
+            }
+          >
+            Add guests
+          </Text>
+        </View>
+      </View>
+    </View>
+    <RCTScrollView
+      contentContainerStyle={
+        {
+          "flexDirection": "row",
+        }
+      }
+      horizontal={true}
+      showsHorizontalScrollIndicator={false}
+      style={
+        {
+          "paddingVertical": 20,
+        }
+      }
+    >
+      <View>
+        <View
+          style={
+            {
+              "alignItems": "flex-start",
+              "height": 60,
+              "justifyContent": "center",
+              "marginHorizontal": 10,
+              "width": 60,
+            }
+          }
+          testID="crib-item"
+        >
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "justifyContent": "center",
+              }
+            }
+          >
+            <View
+              testID="icon-0"
+            >
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "rgba(103, 80, 164, 1)",
+                      "fontSize": 24,
+                    },
+                    undefined,
+                    {
+                      "fontFamily": "FontAwesome",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                
+              </Text>
+            </View>
+            <Text
+              style={
+                {
+                  "fontSize": 10,
+                  "marginTop": 5,
+                }
+              }
+              testID="title-0"
+            >
+              Iconic
+            </Text>
+          </View>
+        </View>
+        <View
+          style={
+            {
+              "alignItems": "flex-start",
+              "height": 60,
+              "justifyContent": "center",
+              "marginHorizontal": 10,
+              "width": 60,
+            }
+          }
+          testID="crib-item"
+        >
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "justifyContent": "center",
+              }
+            }
+          >
+            <View
+              testID="icon-2"
+            >
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "rgba(103, 80, 164, 1)",
+                      "fontSize": 24,
+                    },
+                    undefined,
+                    {
+                      "fontFamily": "Material Icons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                
+              </Text>
+            </View>
+            <Text
+              style={
+                {
+                  "fontSize": 10,
+                  "marginTop": 5,
+                }
+              }
+              testID="title-2"
+            >
+              Cabins
+            </Text>
+          </View>
+        </View>
+        <View
+          style={
+            {
+              "alignItems": "flex-start",
+              "height": 60,
+              "justifyContent": "center",
+              "marginHorizontal": 10,
+              "width": 60,
+            }
+          }
+          testID="crib-item"
+        >
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "justifyContent": "center",
+              }
+            }
+          >
+            <View
+              testID="icon-3"
+            >
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "rgba(103, 80, 164, 1)",
+                      "fontSize": 24,
+                    },
+                    undefined,
+                    {
+                      "fontFamily": "FontAwesome5Free-Solid",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {
+                      "fontWeight": "900",
+                    },
+                  ]
+                }
+              >
+                
+              </Text>
+            </View>
+            <Text
+              style={
+                {
+                  "fontSize": 10,
+                  "marginTop": 5,
+                }
+              }
+              testID="title-3"
+            >
+              OMG!
+            </Text>
+          </View>
+        </View>
+        <View
+          style={
+            {
+              "alignItems": "flex-start",
+              "height": 60,
+              "justifyContent": "center",
+              "marginHorizontal": 10,
+              "width": 60,
+            }
+          }
+          testID="crib-item"
+        >
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "justifyContent": "center",
+              }
+            }
+          >
+            <View
+              testID="icon-4"
+            >
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "rgba(103, 80, 164, 1)",
+                      "fontSize": 24,
+                    },
+                    undefined,
+                    {
+                      "fontFamily": "Material Design Icons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                󱊠
+              </Text>
+            </View>
+            <Text
+              style={
+                {
+                  "fontSize": 10,
+                  "marginTop": 5,
+                }
+              }
+              testID="title-4"
+            >
+              Beach front
+            </Text>
+          </View>
+        </View>
+        <View
+          style={
+            {
+              "alignItems": "flex-start",
+              "height": 60,
+              "justifyContent": "center",
+              "marginHorizontal": 10,
+              "width": 60,
+            }
+          }
+          testID="crib-item"
+        >
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "justifyContent": "center",
+              }
+            }
+          >
+            <View
+              testID="icon-5"
+            >
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "rgba(103, 80, 164, 1)",
+                      "fontSize": 24,
+                    },
+                    undefined,
+                    {
+                      "fontFamily": "Material Icons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                
+              </Text>
+            </View>
+            <Text
+              style={
+                {
+                  "fontSize": 10,
+                  "marginTop": 5,
+                }
+              }
+              testID="title-5"
+            >
+              Tiny homes
+            </Text>
+          </View>
+        </View>
+        <View
+          style={
+            {
+              "alignItems": "flex-start",
+              "height": 60,
+              "justifyContent": "center",
+              "marginHorizontal": 10,
+              "width": 60,
+            }
+          }
+          testID="crib-item"
+        >
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "justifyContent": "center",
+              }
+            }
+          >
+            <View
+              testID="icon-6"
+            >
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "rgba(103, 80, 164, 1)",
+                      "fontSize": 24,
+                    },
+                    undefined,
+                    {
+                      "fontFamily": "Material Design Icons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                󰼪
+              </Text>
+            </View>
+            <Text
+              style={
+                {
+                  "fontSize": 10,
+                  "marginTop": 5,
+                }
+              }
+              testID="title-6"
+            >
+              Lake fron
+            </Text>
+          </View>
+        </View>
+        <View
+          style={
+            {
+              "alignItems": "flex-start",
+              "height": 60,
+              "justifyContent": "center",
+              "marginHorizontal": 10,
+              "width": 60,
+            }
+          }
+          testID="crib-item"
+        >
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "justifyContent": "center",
+              }
+            }
+          >
+            <View
+              testID="icon-7"
+            >
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "rgba(103, 80, 164, 1)",
+                      "fontSize": 24,
+                    },
+                    undefined,
+                    {
+                      "fontFamily": "FontAwesome6Free-Solid",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {
+                      "fontWeight": "900",
+                    },
+                  ]
+                }
+              >
+                
+              </Text>
+            </View>
+            <Text
+              style={
+                {
+                  "fontSize": 10,
+                  "marginTop": 5,
+                }
+              }
+              testID="title-7"
+            >
+              Luxury
+            </Text>
+          </View>
+        </View>
+        <View
+          style={
+            {
+              "alignItems": "flex-start",
+              "height": 60,
+              "justifyContent": "center",
+              "marginHorizontal": 10,
+              "width": 60,
+            }
+          }
+          testID="crib-item"
+        >
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "justifyContent": "center",
+              }
+            }
+          >
+            <View
+              testID="icon-8"
+            >
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "rgba(103, 80, 164, 1)",
+                      "fontSize": 24,
+                    },
+                    undefined,
+                    {
+                      "fontFamily": "Material Design Icons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                󰨀
+              </Text>
+            </View>
+            <Text
+              style={
+                {
+                  "fontSize": 10,
+                  "marginTop": 5,
+                }
+              }
+              testID="title-8"
+            >
+              Amazing
+            </Text>
+          </View>
+        </View>
+        <View
+          style={
+            {
+              "alignItems": "flex-start",
+              "height": 60,
+              "justifyContent": "center",
+              "marginHorizontal": 10,
+              "width": 60,
+            }
+          }
+          testID="crib-item"
+        >
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "justifyContent": "center",
+              }
+            }
+          >
+            <View
+              testID="icon-9"
+            >
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "rgba(103, 80, 164, 1)",
+                      "fontSize": 24,
+                    },
+                    undefined,
+                    {
+                      "fontFamily": "fontcustom",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                
+              </Text>
+            </View>
+            <Text
+              style={
+                {
+                  "fontSize": 10,
+                  "marginTop": 5,
+                }
+              }
+              testID="title-9"
+            >
+              Tree houses
+            </Text>
+          </View>
+        </View>
+        <View
+          style={
+            {
+              "alignItems": "flex-start",
+              "height": 60,
+              "justifyContent": "center",
+              "marginHorizontal": 10,
+              "width": 60,
+            }
+          }
+          testID="crib-item"
+        >
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "justifyContent": "center",
+              }
+            }
+          >
+            <View
+              testID="icon-10"
+            >
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "rgba(103, 80, 164, 1)",
+                      "fontSize": 24,
+                    },
+                    undefined,
+                    {
+                      "fontFamily": "Material Icons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                
+              </Text>
+            </View>
+            <Text
+              style={
+                {
+                  "fontSize": 10,
+                  "marginTop": 5,
+                }
+              }
+              testID="title-10"
+            >
+              Castles
+            </Text>
+          </View>
+        </View>
+        <View
+          style={
+            {
+              "alignItems": "flex-start",
+              "height": 60,
+              "justifyContent": "center",
+              "marginHorizontal": 10,
+              "width": 60,
+            }
+          }
+          testID="crib-item"
+        >
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "justifyContent": "center",
+              }
+            }
+          >
+            <View
+              testID="icon-11"
+            >
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "rgba(103, 80, 164, 1)",
+                      "fontSize": 24,
+                    },
+                    undefined,
+                    {
+                      "fontFamily": "Material Design Icons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                󱢭
+              </Text>
+            </View>
+            <Text
+              style={
+                {
+                  "fontSize": 10,
+                  "marginTop": 5,
+                }
+              }
+              testID="title-11"
+            >
+              Play homes
+            </Text>
+          </View>
+        </View>
+      </View>
+    </RCTScrollView>
+    <RCTScrollView
+      contentContainerStyle={
+        {
+          "flexDirection": "column",
+        }
+      }
+      showsVerticalScrollIndicator={false}
+      style={
+        {
+          "marginTop": 20,
+        }
+      }
+      vertical={true}
+    >
+      <View>
+        <View
+          style={
+            {
+              "marginBottom": 20,
+            }
+          }
+        >
+          <View
+            style={
+              {
+                "height": 300,
+                "position": "relative",
+                "width": 750,
+              }
+            }
+          >
+            <RCTScrollView
+              data={
+                [
+                  "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677939722/upload/jkhkqk8c0zk5nl7znpvj.jpg",
+                  "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677939722/upload/prdqkq3ccdp34srxeu5m.jpg",
+                  "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677938896/upload/xn3fkin9o1bexstjsjxo.webp",
+                  "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677938895/upload/yk36xc9txpamhheuxqh2.webp",
+                  "https://res.cloudinary.com/dtxze8vwn/image/upload/v1661101218/samples/people/bicycle.jpg",
+                ]
+              }
+              getItem={[Function]}
+              getItemCount={[Function]}
+              horizontal={true}
+              keyExtractor={[Function]}
+              onContentSizeChange={[Function]}
+              onLayout={[Function]}
+              onMomentumScrollBegin={[Function]}
+              onMomentumScrollEnd={[Function]}
+              onScroll={[Function]}
+              onScrollBeginDrag={[Function]}
+              onScrollEndDrag={[Function]}
+              pagingEnabled={true}
+              removeClippedSubviews={false}
+              renderItem={[Function]}
+              scrollEventThrottle={0.0001}
+              showsHorizontalScrollIndicator={false}
+              stickyHeaderIndices={[]}
+              viewabilityConfigCallbackPairs={[]}
+            >
+              <View>
+                <View
+                  onFocusCapture={[Function]}
+                  onLayout={[Function]}
+                  style={
+                    [
+                      {
+                        "flexDirection": "row",
+                      },
+                      null,
+                    ]
+                  }
+                >
+                  <Image
+                    source={
+                      {
+                        "uri": "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677939722/upload/jkhkqk8c0zk5nl7znpvj.jpg",
+                      }
+                    }
+                    style={
+                      {
+                        "height": "100%",
+                        "resizeMode": "cover",
+                        "width": 750,
+                      }
+                    }
+                  />
+                </View>
+                <View
+                  onFocusCapture={[Function]}
+                  onLayout={[Function]}
+                  style={
+                    [
+                      {
+                        "flexDirection": "row",
+                      },
+                      null,
+                    ]
+                  }
+                >
+                  <Image
+                    source={
+                      {
+                        "uri": "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677939722/upload/prdqkq3ccdp34srxeu5m.jpg",
+                      }
+                    }
+                    style={
+                      {
+                        "height": "100%",
+                        "resizeMode": "cover",
+                        "width": 750,
+                      }
+                    }
+                  />
+                </View>
+                <View
+                  onFocusCapture={[Function]}
+                  onLayout={[Function]}
+                  style={
+                    [
+                      {
+                        "flexDirection": "row",
+                      },
+                      null,
+                    ]
+                  }
+                >
+                  <Image
+                    source={
+                      {
+                        "uri": "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677938896/upload/xn3fkin9o1bexstjsjxo.webp",
+                      }
+                    }
+                    style={
+                      {
+                        "height": "100%",
+                        "resizeMode": "cover",
+                        "width": 750,
+                      }
+                    }
+                  />
+                </View>
+                <View
+                  onFocusCapture={[Function]}
+                  onLayout={[Function]}
+                  style={
+                    [
+                      {
+                        "flexDirection": "row",
+                      },
+                      null,
+                    ]
+                  }
+                >
+                  <Image
+                    source={
+                      {
+                        "uri": "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677938895/upload/yk36xc9txpamhheuxqh2.webp",
+                      }
+                    }
+                    style={
+                      {
+                        "height": "100%",
+                        "resizeMode": "cover",
+                        "width": 750,
+                      }
+                    }
+                  />
+                </View>
+                <View
+                  onFocusCapture={[Function]}
+                  onLayout={[Function]}
+                  style={
+                    [
+                      {
+                        "flexDirection": "row",
+                      },
+                      null,
+                    ]
+                  }
+                >
+                  <Image
+                    source={
+                      {
+                        "uri": "https://res.cloudinary.com/dtxze8vwn/image/upload/v1661101218/samples/people/bicycle.jpg",
+                      }
+                    }
+                    style={
+                      {
+                        "height": "100%",
+                        "resizeMode": "cover",
+                        "width": 750,
+                      }
+                    }
+                  />
+                </View>
+              </View>
+            </RCTScrollView>
+            <View
+              style={
+                {
+                  "alignItems": "center",
+                  "flexDirection": "row",
+                  "justifyContent": "space-between",
+                  "left": 10,
+                  "position": "absolute",
+                  "right": 50,
+                  "top": 10,
+                }
+              }
+            >
+              <Text
+                style={
+                  {
+                    "backgroundColor": "rgba(0, 0, 0, 0.4)",
+                    "borderRadius": 5,
+                    "color": "#fff",
+                    "fontSize": 16,
+                    "paddingHorizontal": 8,
+                    "paddingVertical": 4,
+                  }
+                }
+              >
+                Favorite
+              </Text>
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "#000000",
+                      "fontSize": 24,
+                    },
+                    undefined,
+                    {
+                      "fontFamily": "Ionicons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                
+              </Text>
+            </View>
+            <View
+              style={
+                {
+                  "bottom": 10,
+                  "flexDirection": "row",
+                  "justifyContent": "center",
+                  "left": 0,
+                  "position": "absolute",
+                  "right": 0,
+                }
+              }
+            >
+              <View
+                style={
+                  [
+                    {
+                      "backgroundColor": "rgba(255, 255, 255, 0.8)",
+                      "borderRadius": 4,
+                      "height": 8,
+                      "marginHorizontal": 4,
+                      "width": 8,
+                    },
+                    {
+                      "backgroundColor": "#fff",
+                    },
+                  ]
+                }
+              />
+              <View
+                style={
+                  [
+                    {
+                      "backgroundColor": "rgba(255, 255, 255, 0.8)",
+                      "borderRadius": 4,
+                      "height": 8,
+                      "marginHorizontal": 4,
+                      "width": 8,
+                    },
+                    false,
+                  ]
+                }
+              />
+              <View
+                style={
+                  [
+                    {
+                      "backgroundColor": "rgba(255, 255, 255, 0.8)",
+                      "borderRadius": 4,
+                      "height": 8,
+                      "marginHorizontal": 4,
+                      "width": 8,
+                    },
+                    false,
+                  ]
+                }
+              />
+              <View
+                style={
+                  [
+                    {
+                      "backgroundColor": "rgba(255, 255, 255, 0.8)",
+                      "borderRadius": 4,
+                      "height": 8,
+                      "marginHorizontal": 4,
+                      "width": 8,
+                    },
+                    false,
+                  ]
+                }
+              />
+              <View
+                style={
+                  [
+                    {
+                      "backgroundColor": "rgba(255, 255, 255, 0.8)",
+                      "borderRadius": 4,
+                      "height": 8,
+                      "marginHorizontal": 4,
+                      "width": 8,
+                    },
+                    false,
+                  ]
+                }
+              />
+            </View>
+          </View>
+          <View
+            style={
+              {
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+                "marginVertical": 10,
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "fontSize": 20,
+                  "fontWeight": "500",
+                }
+              }
+            >
+              Madrid
+              , 
+              Spain
+            </Text>
+            <View
+              style={
+                {
+                  "alignItems": "center",
+                  "flexDirection": "row",
+                  "justifyContent": "center",
+                }
+              }
+            >
+              <View
+                style={
+                  {
+                    "alignItems": "center",
+                    "flexDirection": "row",
+                    "justifyContent": "center",
+                  }
+                }
+              >
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "#f0c419",
+                        "fontSize": 16,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Ionicons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                >
+                  
+                </Text>
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "#f0c419",
+                        "fontSize": 16,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Ionicons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                >
+                  
+                </Text>
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "#f0c419",
+                        "fontSize": 16,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Ionicons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                >
+                  
+                </Text>
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "#f0c419",
+                        "fontSize": 16,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Ionicons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                >
+                  
+                </Text>
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "#f0c419",
+                        "fontSize": 16,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Ionicons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                >
+                  
+                </Text>
+              </View>
+              <Text>
+                2.6
+              </Text>
+            </View>
+          </View>
+          <View
+            style={
+              {
+                "flexDirection": "column",
+                "justifyContent": "space-between",
+              }
+            }
+          >
+            <Text
+              style={{}}
+            >
+              119 km away
+            </Text>
+            <Text
+              style={{}}
+            >
+              Oct
+              . 
+              10
+               - 
+              20
+            </Text>
+          </View>
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "justifyContent": "flex-start",
+                "marginTop": 10,
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "fontSize": 16,
+                  "fontWeight": "bold",
+                }
+              }
+            >
+              €
+              250
+            </Text>
+            <Text
+              style={
+                {
+                  "marginLeft": 5,
+                }
+              }
+            >
+              EUR
+            </Text>
+            <Text
+              style={
+                {
+                  "marginLeft": 5,
+                }
+              }
+            >
+              Per Night
+            </Text>
+          </View>
+        </View>
+        <View
+          style={
+            {
+              "marginBottom": 20,
+            }
+          }
+        >
+          <View
+            style={
+              {
+                "height": 300,
+                "position": "relative",
+                "width": 750,
+              }
+            }
+          >
+            <RCTScrollView
+              data={
+                [
+                  "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677939722/upload/prdqkq3ccdp34srxeu5m.jpg",
+                  "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677939722/upload/ci9iwb8aoezzro1desld.jpg",
+                  "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677938896/upload/m6q1hovlweat1zvb5sf6.webp",
+                  "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677938895/upload/edtalg3eyh1mghn2qf1j.webp",
+                  "https://res.cloudinary.com/dtxze8vwn/image/upload/v1661101233/cld-sample-2.jpg",
+                ]
+              }
+              getItem={[Function]}
+              getItemCount={[Function]}
+              horizontal={true}
+              keyExtractor={[Function]}
+              onContentSizeChange={[Function]}
+              onLayout={[Function]}
+              onMomentumScrollBegin={[Function]}
+              onMomentumScrollEnd={[Function]}
+              onScroll={[Function]}
+              onScrollBeginDrag={[Function]}
+              onScrollEndDrag={[Function]}
+              pagingEnabled={true}
+              removeClippedSubviews={false}
+              renderItem={[Function]}
+              scrollEventThrottle={0.0001}
+              showsHorizontalScrollIndicator={false}
+              stickyHeaderIndices={[]}
+              viewabilityConfigCallbackPairs={[]}
+            >
+              <View>
+                <View
+                  onFocusCapture={[Function]}
+                  onLayout={[Function]}
+                  style={
+                    [
+                      {
+                        "flexDirection": "row",
+                      },
+                      null,
+                    ]
+                  }
+                >
+                  <Image
+                    source={
+                      {
+                        "uri": "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677939722/upload/prdqkq3ccdp34srxeu5m.jpg",
+                      }
+                    }
+                    style={
+                      {
+                        "height": "100%",
+                        "resizeMode": "cover",
+                        "width": 750,
+                      }
+                    }
+                  />
+                </View>
+                <View
+                  onFocusCapture={[Function]}
+                  onLayout={[Function]}
+                  style={
+                    [
+                      {
+                        "flexDirection": "row",
+                      },
+                      null,
+                    ]
+                  }
+                >
+                  <Image
+                    source={
+                      {
+                        "uri": "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677939722/upload/ci9iwb8aoezzro1desld.jpg",
+                      }
+                    }
+                    style={
+                      {
+                        "height": "100%",
+                        "resizeMode": "cover",
+                        "width": 750,
+                      }
+                    }
+                  />
+                </View>
+                <View
+                  onFocusCapture={[Function]}
+                  onLayout={[Function]}
+                  style={
+                    [
+                      {
+                        "flexDirection": "row",
+                      },
+                      null,
+                    ]
+                  }
+                >
+                  <Image
+                    source={
+                      {
+                        "uri": "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677938896/upload/m6q1hovlweat1zvb5sf6.webp",
+                      }
+                    }
+                    style={
+                      {
+                        "height": "100%",
+                        "resizeMode": "cover",
+                        "width": 750,
+                      }
+                    }
+                  />
+                </View>
+                <View
+                  onFocusCapture={[Function]}
+                  onLayout={[Function]}
+                  style={
+                    [
+                      {
+                        "flexDirection": "row",
+                      },
+                      null,
+                    ]
+                  }
+                >
+                  <Image
+                    source={
+                      {
+                        "uri": "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677938895/upload/edtalg3eyh1mghn2qf1j.webp",
+                      }
+                    }
+                    style={
+                      {
+                        "height": "100%",
+                        "resizeMode": "cover",
+                        "width": 750,
+                      }
+                    }
+                  />
+                </View>
+                <View
+                  onFocusCapture={[Function]}
+                  onLayout={[Function]}
+                  style={
+                    [
+                      {
+                        "flexDirection": "row",
+                      },
+                      null,
+                    ]
+                  }
+                >
+                  <Image
+                    source={
+                      {
+                        "uri": "https://res.cloudinary.com/dtxze8vwn/image/upload/v1661101233/cld-sample-2.jpg",
+                      }
+                    }
+                    style={
+                      {
+                        "height": "100%",
+                        "resizeMode": "cover",
+                        "width": 750,
+                      }
+                    }
+                  />
+                </View>
+              </View>
+            </RCTScrollView>
+            <View
+              style={
+                {
+                  "alignItems": "center",
+                  "flexDirection": "row",
+                  "justifyContent": "space-between",
+                  "left": 10,
+                  "position": "absolute",
+                  "right": 50,
+                  "top": 10,
+                }
+              }
+            >
+              <Text
+                style={
+                  {
+                    "backgroundColor": "rgba(0, 0, 0, 0.4)",
+                    "borderRadius": 5,
+                    "color": "#fff",
+                    "fontSize": 16,
+                    "paddingHorizontal": 8,
+                    "paddingVertical": 4,
+                  }
+                }
+              >
+                Favorite
+              </Text>
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "#000000",
+                      "fontSize": 24,
+                    },
+                    undefined,
+                    {
+                      "fontFamily": "Ionicons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                
+              </Text>
+            </View>
+            <View
+              style={
+                {
+                  "bottom": 10,
+                  "flexDirection": "row",
+                  "justifyContent": "center",
+                  "left": 0,
+                  "position": "absolute",
+                  "right": 0,
+                }
+              }
+            >
+              <View
+                style={
+                  [
+                    {
+                      "backgroundColor": "rgba(255, 255, 255, 0.8)",
+                      "borderRadius": 4,
+                      "height": 8,
+                      "marginHorizontal": 4,
+                      "width": 8,
+                    },
+                    {
+                      "backgroundColor": "#fff",
+                    },
+                  ]
+                }
+              />
+              <View
+                style={
+                  [
+                    {
+                      "backgroundColor": "rgba(255, 255, 255, 0.8)",
+                      "borderRadius": 4,
+                      "height": 8,
+                      "marginHorizontal": 4,
+                      "width": 8,
+                    },
+                    false,
+                  ]
+                }
+              />
+              <View
+                style={
+                  [
+                    {
+                      "backgroundColor": "rgba(255, 255, 255, 0.8)",
+                      "borderRadius": 4,
+                      "height": 8,
+                      "marginHorizontal": 4,
+                      "width": 8,
+                    },
+                    false,
+                  ]
+                }
+              />
+              <View
+                style={
+                  [
+                    {
+                      "backgroundColor": "rgba(255, 255, 255, 0.8)",
+                      "borderRadius": 4,
+                      "height": 8,
+                      "marginHorizontal": 4,
+                      "width": 8,
+                    },
+                    false,
+                  ]
+                }
+              />
+              <View
+                style={
+                  [
+                    {
+                      "backgroundColor": "rgba(255, 255, 255, 0.8)",
+                      "borderRadius": 4,
+                      "height": 8,
+                      "marginHorizontal": 4,
+                      "width": 8,
+                    },
+                    false,
+                  ]
+                }
+              />
+            </View>
+          </View>
+          <View
+            style={
+              {
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+                "marginVertical": 10,
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "fontSize": 20,
+                  "fontWeight": "500",
+                }
+              }
+            >
+              Geneva
+              , 
+              Switzerland
+            </Text>
+            <View
+              style={
+                {
+                  "alignItems": "center",
+                  "flexDirection": "row",
+                  "justifyContent": "center",
+                }
+              }
+            >
+              <View
+                style={
+                  {
+                    "alignItems": "center",
+                    "flexDirection": "row",
+                    "justifyContent": "center",
+                  }
+                }
+              >
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "#f0c419",
+                        "fontSize": 16,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Ionicons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                >
+                  
+                </Text>
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "#f0c419",
+                        "fontSize": 16,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Ionicons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                >
+                  
+                </Text>
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "#f0c419",
+                        "fontSize": 16,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Ionicons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                >
+                  
+                </Text>
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "#f0c419",
+                        "fontSize": 16,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Ionicons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                >
+                  
+                </Text>
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "#f0c419",
+                        "fontSize": 16,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Ionicons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                >
+                  
+                </Text>
+              </View>
+              <Text>
+                4.7
+              </Text>
+            </View>
+          </View>
+          <View
+            style={
+              {
+                "flexDirection": "column",
+                "justifyContent": "space-between",
+              }
+            }
+          >
+            <Text
+              style={{}}
+            >
+              119 km away
+            </Text>
+            <Text
+              style={{}}
+            >
+              Nov
+              . 
+              5
+               - 
+              15
+            </Text>
+          </View>
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "justifyContent": "flex-start",
+                "marginTop": 10,
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "fontSize": 16,
+                  "fontWeight": "bold",
+                }
+              }
+            >
+              €
+              300
+            </Text>
+            <Text
+              style={
+                {
+                  "marginLeft": 5,
+                }
+              }
+            >
+              EUR
+            </Text>
+            <Text
+              style={
+                {
+                  "marginLeft": 5,
+                }
+              }
+            >
+              Per Night
+            </Text>
+          </View>
+        </View>
+        <View
+          style={
+            {
+              "marginBottom": 20,
+            }
+          }
+        >
+          <View
+            style={
+              {
+                "height": 300,
+                "position": "relative",
+                "width": 750,
+              }
+            }
+          >
+            <RCTScrollView
+              data={
+                [
+                  "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677939722/upload/ci9iwb8aoezzro1desld.jpg",
+                  "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677939722/upload/riyqfbjc8ij8ctyb40il.jpg",
+                  "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677938896/upload/wwlqxyvaj7x93m1qbows.webp",
+                  "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677938896/upload/fyenbpclzhxy9n4zsglt.webp",
+                  "https://res.cloudinary.com/dtxze8vwn/image/upload/v1661166924/upload/gtp8mtrpkurqbmpat2ce.jpg",
+                ]
+              }
+              getItem={[Function]}
+              getItemCount={[Function]}
+              horizontal={true}
+              keyExtractor={[Function]}
+              onContentSizeChange={[Function]}
+              onLayout={[Function]}
+              onMomentumScrollBegin={[Function]}
+              onMomentumScrollEnd={[Function]}
+              onScroll={[Function]}
+              onScrollBeginDrag={[Function]}
+              onScrollEndDrag={[Function]}
+              pagingEnabled={true}
+              removeClippedSubviews={false}
+              renderItem={[Function]}
+              scrollEventThrottle={0.0001}
+              showsHorizontalScrollIndicator={false}
+              stickyHeaderIndices={[]}
+              viewabilityConfigCallbackPairs={[]}
+            >
+              <View>
+                <View
+                  onFocusCapture={[Function]}
+                  onLayout={[Function]}
+                  style={
+                    [
+                      {
+                        "flexDirection": "row",
+                      },
+                      null,
+                    ]
+                  }
+                >
+                  <Image
+                    source={
+                      {
+                        "uri": "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677939722/upload/ci9iwb8aoezzro1desld.jpg",
+                      }
+                    }
+                    style={
+                      {
+                        "height": "100%",
+                        "resizeMode": "cover",
+                        "width": 750,
+                      }
+                    }
+                  />
+                </View>
+                <View
+                  onFocusCapture={[Function]}
+                  onLayout={[Function]}
+                  style={
+                    [
+                      {
+                        "flexDirection": "row",
+                      },
+                      null,
+                    ]
+                  }
+                >
+                  <Image
+                    source={
+                      {
+                        "uri": "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677939722/upload/riyqfbjc8ij8ctyb40il.jpg",
+                      }
+                    }
+                    style={
+                      {
+                        "height": "100%",
+                        "resizeMode": "cover",
+                        "width": 750,
+                      }
+                    }
+                  />
+                </View>
+                <View
+                  onFocusCapture={[Function]}
+                  onLayout={[Function]}
+                  style={
+                    [
+                      {
+                        "flexDirection": "row",
+                      },
+                      null,
+                    ]
+                  }
+                >
+                  <Image
+                    source={
+                      {
+                        "uri": "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677938896/upload/wwlqxyvaj7x93m1qbows.webp",
+                      }
+                    }
+                    style={
+                      {
+                        "height": "100%",
+                        "resizeMode": "cover",
+                        "width": 750,
+                      }
+                    }
+                  />
+                </View>
+                <View
+                  onFocusCapture={[Function]}
+                  onLayout={[Function]}
+                  style={
+                    [
+                      {
+                        "flexDirection": "row",
+                      },
+                      null,
+                    ]
+                  }
+                >
+                  <Image
+                    source={
+                      {
+                        "uri": "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677938896/upload/fyenbpclzhxy9n4zsglt.webp",
+                      }
+                    }
+                    style={
+                      {
+                        "height": "100%",
+                        "resizeMode": "cover",
+                        "width": 750,
+                      }
+                    }
+                  />
+                </View>
+                <View
+                  onFocusCapture={[Function]}
+                  onLayout={[Function]}
+                  style={
+                    [
+                      {
+                        "flexDirection": "row",
+                      },
+                      null,
+                    ]
+                  }
+                >
+                  <Image
+                    source={
+                      {
+                        "uri": "https://res.cloudinary.com/dtxze8vwn/image/upload/v1661166924/upload/gtp8mtrpkurqbmpat2ce.jpg",
+                      }
+                    }
+                    style={
+                      {
+                        "height": "100%",
+                        "resizeMode": "cover",
+                        "width": 750,
+                      }
+                    }
+                  />
+                </View>
+              </View>
+            </RCTScrollView>
+            <View
+              style={
+                {
+                  "alignItems": "center",
+                  "flexDirection": "row",
+                  "justifyContent": "space-between",
+                  "left": 10,
+                  "position": "absolute",
+                  "right": 50,
+                  "top": 10,
+                }
+              }
+            >
+              <Text
+                style={
+                  {
+                    "backgroundColor": "rgba(0, 0, 0, 0.4)",
+                    "borderRadius": 5,
+                    "color": "#fff",
+                    "fontSize": 16,
+                    "paddingHorizontal": 8,
+                    "paddingVertical": 4,
+                  }
+                }
+              >
+                Favorite
+              </Text>
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "#000000",
+                      "fontSize": 24,
+                    },
+                    undefined,
+                    {
+                      "fontFamily": "Ionicons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                
+              </Text>
+            </View>
+            <View
+              style={
+                {
+                  "bottom": 10,
+                  "flexDirection": "row",
+                  "justifyContent": "center",
+                  "left": 0,
+                  "position": "absolute",
+                  "right": 0,
+                }
+              }
+            >
+              <View
+                style={
+                  [
+                    {
+                      "backgroundColor": "rgba(255, 255, 255, 0.8)",
+                      "borderRadius": 4,
+                      "height": 8,
+                      "marginHorizontal": 4,
+                      "width": 8,
+                    },
+                    {
+                      "backgroundColor": "#fff",
+                    },
+                  ]
+                }
+              />
+              <View
+                style={
+                  [
+                    {
+                      "backgroundColor": "rgba(255, 255, 255, 0.8)",
+                      "borderRadius": 4,
+                      "height": 8,
+                      "marginHorizontal": 4,
+                      "width": 8,
+                    },
+                    false,
+                  ]
+                }
+              />
+              <View
+                style={
+                  [
+                    {
+                      "backgroundColor": "rgba(255, 255, 255, 0.8)",
+                      "borderRadius": 4,
+                      "height": 8,
+                      "marginHorizontal": 4,
+                      "width": 8,
+                    },
+                    false,
+                  ]
+                }
+              />
+              <View
+                style={
+                  [
+                    {
+                      "backgroundColor": "rgba(255, 255, 255, 0.8)",
+                      "borderRadius": 4,
+                      "height": 8,
+                      "marginHorizontal": 4,
+                      "width": 8,
+                    },
+                    false,
+                  ]
+                }
+              />
+              <View
+                style={
+                  [
+                    {
+                      "backgroundColor": "rgba(255, 255, 255, 0.8)",
+                      "borderRadius": 4,
+                      "height": 8,
+                      "marginHorizontal": 4,
+                      "width": 8,
+                    },
+                    false,
+                  ]
+                }
+              />
+            </View>
+          </View>
+          <View
+            style={
+              {
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+                "marginVertical": 10,
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "fontSize": 20,
+                  "fontWeight": "500",
+                }
+              }
+            >
+              New York
+              , 
+              USA
+            </Text>
+            <View
+              style={
+                {
+                  "alignItems": "center",
+                  "flexDirection": "row",
+                  "justifyContent": "center",
+                }
+              }
+            >
+              <View
+                style={
+                  {
+                    "alignItems": "center",
+                    "flexDirection": "row",
+                    "justifyContent": "center",
+                  }
+                }
+              >
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "#f0c419",
+                        "fontSize": 16,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Ionicons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                >
+                  
+                </Text>
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "#f0c419",
+                        "fontSize": 16,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Ionicons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                >
+                  
+                </Text>
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "#f0c419",
+                        "fontSize": 16,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Ionicons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                >
+                  
+                </Text>
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "#f0c419",
+                        "fontSize": 16,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Ionicons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                >
+                  
+                </Text>
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "#f0c419",
+                        "fontSize": 16,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Ionicons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                >
+                  
+                </Text>
+              </View>
+              <Text>
+                4.9
+              </Text>
+            </View>
+          </View>
+          <View
+            style={
+              {
+                "flexDirection": "column",
+                "justifyContent": "space-between",
+              }
+            }
+          >
+            <Text
+              style={{}}
+            >
+              119 km away
+            </Text>
+            <Text
+              style={{}}
+            >
+              Dec
+              . 
+              1
+               - 
+              10
+            </Text>
+          </View>
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "justifyContent": "flex-start",
+                "marginTop": 10,
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "fontSize": 16,
+                  "fontWeight": "bold",
+                }
+              }
+            >
+              €
+              180
+            </Text>
+            <Text
+              style={
+                {
+                  "marginLeft": 5,
+                }
+              }
+            >
+              EUR
+            </Text>
+            <Text
+              style={
+                {
+                  "marginLeft": 5,
+                }
+              }
+            >
+              Per Night
+            </Text>
+          </View>
+        </View>
+        <View
+          style={
+            {
+              "marginBottom": 20,
+            }
+          }
+        >
+          <View
+            style={
+              {
+                "height": 300,
+                "position": "relative",
+                "width": 750,
+              }
+            }
+          >
+            <RCTScrollView
+              data={
+                [
+                  "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677939722/upload/riyqfbjc8ij8ctyb40il.jpg",
+                  "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677939722/upload/xy8p2xcamrphkjlm4lia.jpg",
+                  "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677938895/upload/ognjk7gfqkxhhym9fu8b.webp",
+                  "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677938895/upload/atenel1fqmexaomvalpz.webp",
+                  "https://res.cloudinary.com/dtxze8vwn/image/upload/v1661166924/upload/hz9g53mahbzmtlqlkhnq.jpg",
+                ]
+              }
+              getItem={[Function]}
+              getItemCount={[Function]}
+              horizontal={true}
+              keyExtractor={[Function]}
+              onContentSizeChange={[Function]}
+              onLayout={[Function]}
+              onMomentumScrollBegin={[Function]}
+              onMomentumScrollEnd={[Function]}
+              onScroll={[Function]}
+              onScrollBeginDrag={[Function]}
+              onScrollEndDrag={[Function]}
+              pagingEnabled={true}
+              removeClippedSubviews={false}
+              renderItem={[Function]}
+              scrollEventThrottle={0.0001}
+              showsHorizontalScrollIndicator={false}
+              stickyHeaderIndices={[]}
+              viewabilityConfigCallbackPairs={[]}
+            >
+              <View>
+                <View
+                  onFocusCapture={[Function]}
+                  onLayout={[Function]}
+                  style={
+                    [
+                      {
+                        "flexDirection": "row",
+                      },
+                      null,
+                    ]
+                  }
+                >
+                  <Image
+                    source={
+                      {
+                        "uri": "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677939722/upload/riyqfbjc8ij8ctyb40il.jpg",
+                      }
+                    }
+                    style={
+                      {
+                        "height": "100%",
+                        "resizeMode": "cover",
+                        "width": 750,
+                      }
+                    }
+                  />
+                </View>
+                <View
+                  onFocusCapture={[Function]}
+                  onLayout={[Function]}
+                  style={
+                    [
+                      {
+                        "flexDirection": "row",
+                      },
+                      null,
+                    ]
+                  }
+                >
+                  <Image
+                    source={
+                      {
+                        "uri": "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677939722/upload/xy8p2xcamrphkjlm4lia.jpg",
+                      }
+                    }
+                    style={
+                      {
+                        "height": "100%",
+                        "resizeMode": "cover",
+                        "width": 750,
+                      }
+                    }
+                  />
+                </View>
+                <View
+                  onFocusCapture={[Function]}
+                  onLayout={[Function]}
+                  style={
+                    [
+                      {
+                        "flexDirection": "row",
+                      },
+                      null,
+                    ]
+                  }
+                >
+                  <Image
+                    source={
+                      {
+                        "uri": "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677938895/upload/ognjk7gfqkxhhym9fu8b.webp",
+                      }
+                    }
+                    style={
+                      {
+                        "height": "100%",
+                        "resizeMode": "cover",
+                        "width": 750,
+                      }
+                    }
+                  />
+                </View>
+                <View
+                  onFocusCapture={[Function]}
+                  onLayout={[Function]}
+                  style={
+                    [
+                      {
+                        "flexDirection": "row",
+                      },
+                      null,
+                    ]
+                  }
+                >
+                  <Image
+                    source={
+                      {
+                        "uri": "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677938895/upload/atenel1fqmexaomvalpz.webp",
+                      }
+                    }
+                    style={
+                      {
+                        "height": "100%",
+                        "resizeMode": "cover",
+                        "width": 750,
+                      }
+                    }
+                  />
+                </View>
+                <View
+                  onFocusCapture={[Function]}
+                  onLayout={[Function]}
+                  style={
+                    [
+                      {
+                        "flexDirection": "row",
+                      },
+                      null,
+                    ]
+                  }
+                >
+                  <Image
+                    source={
+                      {
+                        "uri": "https://res.cloudinary.com/dtxze8vwn/image/upload/v1661166924/upload/hz9g53mahbzmtlqlkhnq.jpg",
+                      }
+                    }
+                    style={
+                      {
+                        "height": "100%",
+                        "resizeMode": "cover",
+                        "width": 750,
+                      }
+                    }
+                  />
+                </View>
+              </View>
+            </RCTScrollView>
+            <View
+              style={
+                {
+                  "alignItems": "center",
+                  "flexDirection": "row",
+                  "justifyContent": "space-between",
+                  "left": 10,
+                  "position": "absolute",
+                  "right": 50,
+                  "top": 10,
+                }
+              }
+            >
+              <Text
+                style={
+                  {
+                    "backgroundColor": "rgba(0, 0, 0, 0.4)",
+                    "borderRadius": 5,
+                    "color": "#fff",
+                    "fontSize": 16,
+                    "paddingHorizontal": 8,
+                    "paddingVertical": 4,
+                  }
+                }
+              >
+                Favorite
+              </Text>
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "#000000",
+                      "fontSize": 24,
+                    },
+                    undefined,
+                    {
+                      "fontFamily": "Ionicons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                
+              </Text>
+            </View>
+            <View
+              style={
+                {
+                  "bottom": 10,
+                  "flexDirection": "row",
+                  "justifyContent": "center",
+                  "left": 0,
+                  "position": "absolute",
+                  "right": 0,
+                }
+              }
+            >
+              <View
+                style={
+                  [
+                    {
+                      "backgroundColor": "rgba(255, 255, 255, 0.8)",
+                      "borderRadius": 4,
+                      "height": 8,
+                      "marginHorizontal": 4,
+                      "width": 8,
+                    },
+                    {
+                      "backgroundColor": "#fff",
+                    },
+                  ]
+                }
+              />
+              <View
+                style={
+                  [
+                    {
+                      "backgroundColor": "rgba(255, 255, 255, 0.8)",
+                      "borderRadius": 4,
+                      "height": 8,
+                      "marginHorizontal": 4,
+                      "width": 8,
+                    },
+                    false,
+                  ]
+                }
+              />
+              <View
+                style={
+                  [
+                    {
+                      "backgroundColor": "rgba(255, 255, 255, 0.8)",
+                      "borderRadius": 4,
+                      "height": 8,
+                      "marginHorizontal": 4,
+                      "width": 8,
+                    },
+                    false,
+                  ]
+                }
+              />
+              <View
+                style={
+                  [
+                    {
+                      "backgroundColor": "rgba(255, 255, 255, 0.8)",
+                      "borderRadius": 4,
+                      "height": 8,
+                      "marginHorizontal": 4,
+                      "width": 8,
+                    },
+                    false,
+                  ]
+                }
+              />
+              <View
+                style={
+                  [
+                    {
+                      "backgroundColor": "rgba(255, 255, 255, 0.8)",
+                      "borderRadius": 4,
+                      "height": 8,
+                      "marginHorizontal": 4,
+                      "width": 8,
+                    },
+                    false,
+                  ]
+                }
+              />
+            </View>
+          </View>
+          <View
+            style={
+              {
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+                "marginVertical": 10,
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "fontSize": 20,
+                  "fontWeight": "500",
+                }
+              }
+            >
+              Sydney
+              , 
+              Australia
+            </Text>
+            <View
+              style={
+                {
+                  "alignItems": "center",
+                  "flexDirection": "row",
+                  "justifyContent": "center",
+                }
+              }
+            >
+              <View
+                style={
+                  {
+                    "alignItems": "center",
+                    "flexDirection": "row",
+                    "justifyContent": "center",
+                  }
+                }
+              >
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "#f0c419",
+                        "fontSize": 16,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Ionicons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                >
+                  
+                </Text>
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "#f0c419",
+                        "fontSize": 16,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Ionicons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                >
+                  
+                </Text>
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "#f0c419",
+                        "fontSize": 16,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Ionicons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                >
+                  
+                </Text>
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "#f0c419",
+                        "fontSize": 16,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Ionicons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                >
+                  
+                </Text>
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "#f0c419",
+                        "fontSize": 16,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Ionicons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                >
+                  
+                </Text>
+              </View>
+              <Text>
+                4.6
+              </Text>
+            </View>
+          </View>
+          <View
+            style={
+              {
+                "flexDirection": "column",
+                "justifyContent": "space-between",
+              }
+            }
+          >
+            <Text
+              style={{}}
+            >
+              119 km away
+            </Text>
+            <Text
+              style={{}}
+            >
+              Jan
+              . 
+              15
+               - 
+              25
+            </Text>
+          </View>
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "justifyContent": "flex-start",
+                "marginTop": 10,
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "fontSize": 16,
+                  "fontWeight": "bold",
+                }
+              }
+            >
+              €
+              320
+            </Text>
+            <Text
+              style={
+                {
+                  "marginLeft": 5,
+                }
+              }
+            >
+              EUR
+            </Text>
+            <Text
+              style={
+                {
+                  "marginLeft": 5,
+                }
+              }
+            >
+              Per Night
+            </Text>
+          </View>
+        </View>
+        <View
+          style={
+            {
+              "marginBottom": 20,
+            }
+          }
+        >
+          <View
+            style={
+              {
+                "height": 300,
+                "position": "relative",
+                "width": 750,
+              }
+            }
+          >
+            <RCTScrollView
+              data={
+                [
+                  "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677938895/upload/pfpit6mcoe798hh3r8pf.webp",
+                  "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677938896/upload/sxsgl4vhvteunu8ysirx.jpg",
+                  "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677938895/upload/eocmtcw0gzlloomdpvtq.webp",
+                  "https://res.cloudinary.com/dtxze8vwn/image/upload/v1661166925/upload/sybd81znehoya0kyfksr.jpg",
+                  "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677939722/upload/oib9btodfulkeedx1waq.jpg",
+                ]
+              }
+              getItem={[Function]}
+              getItemCount={[Function]}
+              horizontal={true}
+              keyExtractor={[Function]}
+              onContentSizeChange={[Function]}
+              onLayout={[Function]}
+              onMomentumScrollBegin={[Function]}
+              onMomentumScrollEnd={[Function]}
+              onScroll={[Function]}
+              onScrollBeginDrag={[Function]}
+              onScrollEndDrag={[Function]}
+              pagingEnabled={true}
+              removeClippedSubviews={false}
+              renderItem={[Function]}
+              scrollEventThrottle={0.0001}
+              showsHorizontalScrollIndicator={false}
+              stickyHeaderIndices={[]}
+              viewabilityConfigCallbackPairs={[]}
+            >
+              <View>
+                <View
+                  onFocusCapture={[Function]}
+                  onLayout={[Function]}
+                  style={
+                    [
+                      {
+                        "flexDirection": "row",
+                      },
+                      null,
+                    ]
+                  }
+                >
+                  <Image
+                    source={
+                      {
+                        "uri": "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677938895/upload/pfpit6mcoe798hh3r8pf.webp",
+                      }
+                    }
+                    style={
+                      {
+                        "height": "100%",
+                        "resizeMode": "cover",
+                        "width": 750,
+                      }
+                    }
+                  />
+                </View>
+                <View
+                  onFocusCapture={[Function]}
+                  onLayout={[Function]}
+                  style={
+                    [
+                      {
+                        "flexDirection": "row",
+                      },
+                      null,
+                    ]
+                  }
+                >
+                  <Image
+                    source={
+                      {
+                        "uri": "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677938896/upload/sxsgl4vhvteunu8ysirx.jpg",
+                      }
+                    }
+                    style={
+                      {
+                        "height": "100%",
+                        "resizeMode": "cover",
+                        "width": 750,
+                      }
+                    }
+                  />
+                </View>
+                <View
+                  onFocusCapture={[Function]}
+                  onLayout={[Function]}
+                  style={
+                    [
+                      {
+                        "flexDirection": "row",
+                      },
+                      null,
+                    ]
+                  }
+                >
+                  <Image
+                    source={
+                      {
+                        "uri": "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677938895/upload/eocmtcw0gzlloomdpvtq.webp",
+                      }
+                    }
+                    style={
+                      {
+                        "height": "100%",
+                        "resizeMode": "cover",
+                        "width": 750,
+                      }
+                    }
+                  />
+                </View>
+                <View
+                  onFocusCapture={[Function]}
+                  onLayout={[Function]}
+                  style={
+                    [
+                      {
+                        "flexDirection": "row",
+                      },
+                      null,
+                    ]
+                  }
+                >
+                  <Image
+                    source={
+                      {
+                        "uri": "https://res.cloudinary.com/dtxze8vwn/image/upload/v1661166925/upload/sybd81znehoya0kyfksr.jpg",
+                      }
+                    }
+                    style={
+                      {
+                        "height": "100%",
+                        "resizeMode": "cover",
+                        "width": 750,
+                      }
+                    }
+                  />
+                </View>
+                <View
+                  onFocusCapture={[Function]}
+                  onLayout={[Function]}
+                  style={
+                    [
+                      {
+                        "flexDirection": "row",
+                      },
+                      null,
+                    ]
+                  }
+                >
+                  <Image
+                    source={
+                      {
+                        "uri": "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677939722/upload/oib9btodfulkeedx1waq.jpg",
+                      }
+                    }
+                    style={
+                      {
+                        "height": "100%",
+                        "resizeMode": "cover",
+                        "width": 750,
+                      }
+                    }
+                  />
+                </View>
+              </View>
+            </RCTScrollView>
+            <View
+              style={
+                {
+                  "alignItems": "center",
+                  "flexDirection": "row",
+                  "justifyContent": "space-between",
+                  "left": 10,
+                  "position": "absolute",
+                  "right": 50,
+                  "top": 10,
+                }
+              }
+            >
+              <Text
+                style={
+                  {
+                    "backgroundColor": "rgba(0, 0, 0, 0.4)",
+                    "borderRadius": 5,
+                    "color": "#fff",
+                    "fontSize": 16,
+                    "paddingHorizontal": 8,
+                    "paddingVertical": 4,
+                  }
+                }
+              >
+                Favorite
+              </Text>
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "#000000",
+                      "fontSize": 24,
+                    },
+                    undefined,
+                    {
+                      "fontFamily": "Ionicons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                
+              </Text>
+            </View>
+            <View
+              style={
+                {
+                  "bottom": 10,
+                  "flexDirection": "row",
+                  "justifyContent": "center",
+                  "left": 0,
+                  "position": "absolute",
+                  "right": 0,
+                }
+              }
+            >
+              <View
+                style={
+                  [
+                    {
+                      "backgroundColor": "rgba(255, 255, 255, 0.8)",
+                      "borderRadius": 4,
+                      "height": 8,
+                      "marginHorizontal": 4,
+                      "width": 8,
+                    },
+                    {
+                      "backgroundColor": "#fff",
+                    },
+                  ]
+                }
+              />
+              <View
+                style={
+                  [
+                    {
+                      "backgroundColor": "rgba(255, 255, 255, 0.8)",
+                      "borderRadius": 4,
+                      "height": 8,
+                      "marginHorizontal": 4,
+                      "width": 8,
+                    },
+                    false,
+                  ]
+                }
+              />
+              <View
+                style={
+                  [
+                    {
+                      "backgroundColor": "rgba(255, 255, 255, 0.8)",
+                      "borderRadius": 4,
+                      "height": 8,
+                      "marginHorizontal": 4,
+                      "width": 8,
+                    },
+                    false,
+                  ]
+                }
+              />
+              <View
+                style={
+                  [
+                    {
+                      "backgroundColor": "rgba(255, 255, 255, 0.8)",
+                      "borderRadius": 4,
+                      "height": 8,
+                      "marginHorizontal": 4,
+                      "width": 8,
+                    },
+                    false,
+                  ]
+                }
+              />
+              <View
+                style={
+                  [
+                    {
+                      "backgroundColor": "rgba(255, 255, 255, 0.8)",
+                      "borderRadius": 4,
+                      "height": 8,
+                      "marginHorizontal": 4,
+                      "width": 8,
+                    },
+                    false,
+                  ]
+                }
+              />
+            </View>
+          </View>
+          <View
+            style={
+              {
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+                "marginVertical": 10,
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "fontSize": 20,
+                  "fontWeight": "500",
+                }
+              }
+            >
+              Lyon
+              , 
+              France
+            </Text>
+            <View
+              style={
+                {
+                  "alignItems": "center",
+                  "flexDirection": "row",
+                  "justifyContent": "center",
+                }
+              }
+            >
+              <View
+                style={
+                  {
+                    "alignItems": "center",
+                    "flexDirection": "row",
+                    "justifyContent": "center",
+                  }
+                }
+              >
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "#f0c419",
+                        "fontSize": 16,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Ionicons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                >
+                  
+                </Text>
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "#f0c419",
+                        "fontSize": 16,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Ionicons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                >
+                  
+                </Text>
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "#f0c419",
+                        "fontSize": 16,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Ionicons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                >
+                  
+                </Text>
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "#f0c419",
+                        "fontSize": 16,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Ionicons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                >
+                  
+                </Text>
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "#f0c419",
+                        "fontSize": 16,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Ionicons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                >
+                  
+                </Text>
+              </View>
+              <Text>
+                4.7
+              </Text>
+            </View>
+          </View>
+          <View
+            style={
+              {
+                "flexDirection": "column",
+                "justifyContent": "space-between",
+              }
+            }
+          >
+            <Text
+              style={{}}
+            >
+              119 km away
+            </Text>
+            <Text
+              style={{}}
+            >
+              Feb
+              . 
+              20
+               - 
+              28
+            </Text>
+          </View>
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "justifyContent": "flex-start",
+                "marginTop": 10,
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "fontSize": 16,
+                  "fontWeight": "bold",
+                }
+              }
+            >
+              €
+              220
+            </Text>
+            <Text
+              style={
+                {
+                  "marginLeft": 5,
+                }
+              }
+            >
+              EUR
+            </Text>
+            <Text
+              style={
+                {
+                  "marginLeft": 5,
+                }
+              }
+            >
+              Per Night
+            </Text>
+          </View>
+        </View>
+        <View
+          style={
+            {
+              "marginBottom": 20,
+            }
+          }
+        >
+          <View
+            style={
+              {
+                "height": 300,
+                "position": "relative",
+                "width": 750,
+              }
+            }
+          >
+            <RCTScrollView
+              data={
+                [
+                  "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677938896/upload/xn3fkin9o1bexstjsjxo.webp",
+                  "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677939722/upload/xy8p2xcamrphkjlm4lia.jpg",
+                  "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677938895/upload/fyenbpclzhxy9n4zsglt.webp",
+                  "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677939722/upload/jkhkqk8c0zk5nl7znpvj.jpg",
+                  "https://res.cloudinary.com/dtxze8vwn/image/upload/v1661166925/upload/sybd81znehoya0kyfksr.jpg",
+                ]
+              }
+              getItem={[Function]}
+              getItemCount={[Function]}
+              horizontal={true}
+              keyExtractor={[Function]}
+              onContentSizeChange={[Function]}
+              onLayout={[Function]}
+              onMomentumScrollBegin={[Function]}
+              onMomentumScrollEnd={[Function]}
+              onScroll={[Function]}
+              onScrollBeginDrag={[Function]}
+              onScrollEndDrag={[Function]}
+              pagingEnabled={true}
+              removeClippedSubviews={false}
+              renderItem={[Function]}
+              scrollEventThrottle={0.0001}
+              showsHorizontalScrollIndicator={false}
+              stickyHeaderIndices={[]}
+              viewabilityConfigCallbackPairs={[]}
+            >
+              <View>
+                <View
+                  onFocusCapture={[Function]}
+                  onLayout={[Function]}
+                  style={
+                    [
+                      {
+                        "flexDirection": "row",
+                      },
+                      null,
+                    ]
+                  }
+                >
+                  <Image
+                    source={
+                      {
+                        "uri": "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677938896/upload/xn3fkin9o1bexstjsjxo.webp",
+                      }
+                    }
+                    style={
+                      {
+                        "height": "100%",
+                        "resizeMode": "cover",
+                        "width": 750,
+                      }
+                    }
+                  />
+                </View>
+                <View
+                  onFocusCapture={[Function]}
+                  onLayout={[Function]}
+                  style={
+                    [
+                      {
+                        "flexDirection": "row",
+                      },
+                      null,
+                    ]
+                  }
+                >
+                  <Image
+                    source={
+                      {
+                        "uri": "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677939722/upload/xy8p2xcamrphkjlm4lia.jpg",
+                      }
+                    }
+                    style={
+                      {
+                        "height": "100%",
+                        "resizeMode": "cover",
+                        "width": 750,
+                      }
+                    }
+                  />
+                </View>
+                <View
+                  onFocusCapture={[Function]}
+                  onLayout={[Function]}
+                  style={
+                    [
+                      {
+                        "flexDirection": "row",
+                      },
+                      null,
+                    ]
+                  }
+                >
+                  <Image
+                    source={
+                      {
+                        "uri": "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677938895/upload/fyenbpclzhxy9n4zsglt.webp",
+                      }
+                    }
+                    style={
+                      {
+                        "height": "100%",
+                        "resizeMode": "cover",
+                        "width": 750,
+                      }
+                    }
+                  />
+                </View>
+                <View
+                  onFocusCapture={[Function]}
+                  onLayout={[Function]}
+                  style={
+                    [
+                      {
+                        "flexDirection": "row",
+                      },
+                      null,
+                    ]
+                  }
+                >
+                  <Image
+                    source={
+                      {
+                        "uri": "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677939722/upload/jkhkqk8c0zk5nl7znpvj.jpg",
+                      }
+                    }
+                    style={
+                      {
+                        "height": "100%",
+                        "resizeMode": "cover",
+                        "width": 750,
+                      }
+                    }
+                  />
+                </View>
+                <View
+                  onFocusCapture={[Function]}
+                  onLayout={[Function]}
+                  style={
+                    [
+                      {
+                        "flexDirection": "row",
+                      },
+                      null,
+                    ]
+                  }
+                >
+                  <Image
+                    source={
+                      {
+                        "uri": "https://res.cloudinary.com/dtxze8vwn/image/upload/v1661166925/upload/sybd81znehoya0kyfksr.jpg",
+                      }
+                    }
+                    style={
+                      {
+                        "height": "100%",
+                        "resizeMode": "cover",
+                        "width": 750,
+                      }
+                    }
+                  />
+                </View>
+              </View>
+            </RCTScrollView>
+            <View
+              style={
+                {
+                  "alignItems": "center",
+                  "flexDirection": "row",
+                  "justifyContent": "space-between",
+                  "left": 10,
+                  "position": "absolute",
+                  "right": 50,
+                  "top": 10,
+                }
+              }
+            >
+              <Text
+                style={
+                  {
+                    "backgroundColor": "rgba(0, 0, 0, 0.4)",
+                    "borderRadius": 5,
+                    "color": "#fff",
+                    "fontSize": 16,
+                    "paddingHorizontal": 8,
+                    "paddingVertical": 4,
+                  }
+                }
+              >
+                Favorite
+              </Text>
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "#000000",
+                      "fontSize": 24,
+                    },
+                    undefined,
+                    {
+                      "fontFamily": "Ionicons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                
+              </Text>
+            </View>
+            <View
+              style={
+                {
+                  "bottom": 10,
+                  "flexDirection": "row",
+                  "justifyContent": "center",
+                  "left": 0,
+                  "position": "absolute",
+                  "right": 0,
+                }
+              }
+            >
+              <View
+                style={
+                  [
+                    {
+                      "backgroundColor": "rgba(255, 255, 255, 0.8)",
+                      "borderRadius": 4,
+                      "height": 8,
+                      "marginHorizontal": 4,
+                      "width": 8,
+                    },
+                    {
+                      "backgroundColor": "#fff",
+                    },
+                  ]
+                }
+              />
+              <View
+                style={
+                  [
+                    {
+                      "backgroundColor": "rgba(255, 255, 255, 0.8)",
+                      "borderRadius": 4,
+                      "height": 8,
+                      "marginHorizontal": 4,
+                      "width": 8,
+                    },
+                    false,
+                  ]
+                }
+              />
+              <View
+                style={
+                  [
+                    {
+                      "backgroundColor": "rgba(255, 255, 255, 0.8)",
+                      "borderRadius": 4,
+                      "height": 8,
+                      "marginHorizontal": 4,
+                      "width": 8,
+                    },
+                    false,
+                  ]
+                }
+              />
+              <View
+                style={
+                  [
+                    {
+                      "backgroundColor": "rgba(255, 255, 255, 0.8)",
+                      "borderRadius": 4,
+                      "height": 8,
+                      "marginHorizontal": 4,
+                      "width": 8,
+                    },
+                    false,
+                  ]
+                }
+              />
+              <View
+                style={
+                  [
+                    {
+                      "backgroundColor": "rgba(255, 255, 255, 0.8)",
+                      "borderRadius": 4,
+                      "height": 8,
+                      "marginHorizontal": 4,
+                      "width": 8,
+                    },
+                    false,
+                  ]
+                }
+              />
+            </View>
+          </View>
+          <View
+            style={
+              {
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+                "marginVertical": 10,
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "fontSize": 20,
+                  "fontWeight": "500",
+                }
+              }
+            >
+              Rabat
+              , 
+              Morocco
+            </Text>
+            <View
+              style={
+                {
+                  "alignItems": "center",
+                  "flexDirection": "row",
+                  "justifyContent": "center",
+                }
+              }
+            >
+              <View
+                style={
+                  {
+                    "alignItems": "center",
+                    "flexDirection": "row",
+                    "justifyContent": "center",
+                  }
+                }
+              >
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "#f0c419",
+                        "fontSize": 16,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Ionicons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                >
+                  
+                </Text>
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "#f0c419",
+                        "fontSize": 16,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Ionicons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                >
+                  
+                </Text>
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "#f0c419",
+                        "fontSize": 16,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Ionicons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                >
+                  
+                </Text>
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "#f0c419",
+                        "fontSize": 16,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Ionicons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                >
+                  
+                </Text>
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "#f0c419",
+                        "fontSize": 16,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Ionicons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                >
+                  
+                </Text>
+              </View>
+              <Text>
+                4.5
+              </Text>
+            </View>
+          </View>
+          <View
+            style={
+              {
+                "flexDirection": "column",
+                "justifyContent": "space-between",
+              }
+            }
+          >
+            <Text
+              style={{}}
+            >
+              119 km away
+            </Text>
+            <Text
+              style={{}}
+            >
+              Mar
+              . 
+              1
+               - 
+              8
+            </Text>
+          </View>
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "justifyContent": "flex-start",
+                "marginTop": 10,
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "fontSize": 16,
+                  "fontWeight": "bold",
+                }
+              }
+            >
+              €
+              280
+            </Text>
+            <Text
+              style={
+                {
+                  "marginLeft": 5,
+                }
+              }
+            >
+              EUR
+            </Text>
+            <Text
+              style={
+                {
+                  "marginLeft": 5,
+                }
+              }
+            >
+              Per Night
+            </Text>
+          </View>
+        </View>
+        <View
+          style={
+            {
+              "marginBottom": 20,
+            }
+          }
+        >
+          <View
+            style={
+              {
+                "height": 300,
+                "position": "relative",
+                "width": 750,
+              }
+            }
+          >
+            <RCTScrollView
+              data={
+                [
+                  "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677938895/upload/fprrj8wzft22gsybsusz.webp",
+                  "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677939722/upload/prdqkq3ccdp34srxeu5m.jpg",
+                  "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677938896/upload/xn3fkin9o1bexstjsjxo.webp",
+                  "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677938895/upload/eocmtcw0gzlloomdpvtq.webp",
+                  "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677938896/upload/sxsgl4vhvteunu8ysirx.jpg",
+                ]
+              }
+              getItem={[Function]}
+              getItemCount={[Function]}
+              horizontal={true}
+              keyExtractor={[Function]}
+              onContentSizeChange={[Function]}
+              onLayout={[Function]}
+              onMomentumScrollBegin={[Function]}
+              onMomentumScrollEnd={[Function]}
+              onScroll={[Function]}
+              onScrollBeginDrag={[Function]}
+              onScrollEndDrag={[Function]}
+              pagingEnabled={true}
+              removeClippedSubviews={false}
+              renderItem={[Function]}
+              scrollEventThrottle={0.0001}
+              showsHorizontalScrollIndicator={false}
+              stickyHeaderIndices={[]}
+              viewabilityConfigCallbackPairs={[]}
+            >
+              <View>
+                <View
+                  onFocusCapture={[Function]}
+                  onLayout={[Function]}
+                  style={
+                    [
+                      {
+                        "flexDirection": "row",
+                      },
+                      null,
+                    ]
+                  }
+                >
+                  <Image
+                    source={
+                      {
+                        "uri": "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677938895/upload/fprrj8wzft22gsybsusz.webp",
+                      }
+                    }
+                    style={
+                      {
+                        "height": "100%",
+                        "resizeMode": "cover",
+                        "width": 750,
+                      }
+                    }
+                  />
+                </View>
+                <View
+                  onFocusCapture={[Function]}
+                  onLayout={[Function]}
+                  style={
+                    [
+                      {
+                        "flexDirection": "row",
+                      },
+                      null,
+                    ]
+                  }
+                >
+                  <Image
+                    source={
+                      {
+                        "uri": "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677939722/upload/prdqkq3ccdp34srxeu5m.jpg",
+                      }
+                    }
+                    style={
+                      {
+                        "height": "100%",
+                        "resizeMode": "cover",
+                        "width": 750,
+                      }
+                    }
+                  />
+                </View>
+                <View
+                  onFocusCapture={[Function]}
+                  onLayout={[Function]}
+                  style={
+                    [
+                      {
+                        "flexDirection": "row",
+                      },
+                      null,
+                    ]
+                  }
+                >
+                  <Image
+                    source={
+                      {
+                        "uri": "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677938896/upload/xn3fkin9o1bexstjsjxo.webp",
+                      }
+                    }
+                    style={
+                      {
+                        "height": "100%",
+                        "resizeMode": "cover",
+                        "width": 750,
+                      }
+                    }
+                  />
+                </View>
+                <View
+                  onFocusCapture={[Function]}
+                  onLayout={[Function]}
+                  style={
+                    [
+                      {
+                        "flexDirection": "row",
+                      },
+                      null,
+                    ]
+                  }
+                >
+                  <Image
+                    source={
+                      {
+                        "uri": "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677938895/upload/eocmtcw0gzlloomdpvtq.webp",
+                      }
+                    }
+                    style={
+                      {
+                        "height": "100%",
+                        "resizeMode": "cover",
+                        "width": 750,
+                      }
+                    }
+                  />
+                </View>
+                <View
+                  onFocusCapture={[Function]}
+                  onLayout={[Function]}
+                  style={
+                    [
+                      {
+                        "flexDirection": "row",
+                      },
+                      null,
+                    ]
+                  }
+                >
+                  <Image
+                    source={
+                      {
+                        "uri": "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677938896/upload/sxsgl4vhvteunu8ysirx.jpg",
+                      }
+                    }
+                    style={
+                      {
+                        "height": "100%",
+                        "resizeMode": "cover",
+                        "width": 750,
+                      }
+                    }
+                  />
+                </View>
+              </View>
+            </RCTScrollView>
+            <View
+              style={
+                {
+                  "alignItems": "center",
+                  "flexDirection": "row",
+                  "justifyContent": "space-between",
+                  "left": 10,
+                  "position": "absolute",
+                  "right": 50,
+                  "top": 10,
+                }
+              }
+            >
+              <Text
+                style={
+                  {
+                    "backgroundColor": "rgba(0, 0, 0, 0.4)",
+                    "borderRadius": 5,
+                    "color": "#fff",
+                    "fontSize": 16,
+                    "paddingHorizontal": 8,
+                    "paddingVertical": 4,
+                  }
+                }
+              >
+                Favorite
+              </Text>
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "#000000",
+                      "fontSize": 24,
+                    },
+                    undefined,
+                    {
+                      "fontFamily": "Ionicons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                
+              </Text>
+            </View>
+            <View
+              style={
+                {
+                  "bottom": 10,
+                  "flexDirection": "row",
+                  "justifyContent": "center",
+                  "left": 0,
+                  "position": "absolute",
+                  "right": 0,
+                }
+              }
+            >
+              <View
+                style={
+                  [
+                    {
+                      "backgroundColor": "rgba(255, 255, 255, 0.8)",
+                      "borderRadius": 4,
+                      "height": 8,
+                      "marginHorizontal": 4,
+                      "width": 8,
+                    },
+                    {
+                      "backgroundColor": "#fff",
+                    },
+                  ]
+                }
+              />
+              <View
+                style={
+                  [
+                    {
+                      "backgroundColor": "rgba(255, 255, 255, 0.8)",
+                      "borderRadius": 4,
+                      "height": 8,
+                      "marginHorizontal": 4,
+                      "width": 8,
+                    },
+                    false,
+                  ]
+                }
+              />
+              <View
+                style={
+                  [
+                    {
+                      "backgroundColor": "rgba(255, 255, 255, 0.8)",
+                      "borderRadius": 4,
+                      "height": 8,
+                      "marginHorizontal": 4,
+                      "width": 8,
+                    },
+                    false,
+                  ]
+                }
+              />
+              <View
+                style={
+                  [
+                    {
+                      "backgroundColor": "rgba(255, 255, 255, 0.8)",
+                      "borderRadius": 4,
+                      "height": 8,
+                      "marginHorizontal": 4,
+                      "width": 8,
+                    },
+                    false,
+                  ]
+                }
+              />
+              <View
+                style={
+                  [
+                    {
+                      "backgroundColor": "rgba(255, 255, 255, 0.8)",
+                      "borderRadius": 4,
+                      "height": 8,
+                      "marginHorizontal": 4,
+                      "width": 8,
+                    },
+                    false,
+                  ]
+                }
+              />
+            </View>
+          </View>
+          <View
+            style={
+              {
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+                "marginVertical": 10,
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "fontSize": 20,
+                  "fontWeight": "500",
+                }
+              }
+            >
+              Alberta
+              , 
+              Canada
+            </Text>
+            <View
+              style={
+                {
+                  "alignItems": "center",
+                  "flexDirection": "row",
+                  "justifyContent": "center",
+                }
+              }
+            >
+              <View
+                style={
+                  {
+                    "alignItems": "center",
+                    "flexDirection": "row",
+                    "justifyContent": "center",
+                  }
+                }
+              >
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "#f0c419",
+                        "fontSize": 16,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Ionicons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                >
+                  
+                </Text>
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "#f0c419",
+                        "fontSize": 16,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Ionicons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                >
+                  
+                </Text>
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "#f0c419",
+                        "fontSize": 16,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Ionicons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                >
+                  
+                </Text>
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "#f0c419",
+                        "fontSize": 16,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Ionicons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                >
+                  
+                </Text>
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "#f0c419",
+                        "fontSize": 16,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Ionicons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                >
+                  
+                </Text>
+              </View>
+              <Text>
+                4.9
+              </Text>
+            </View>
+          </View>
+          <View
+            style={
+              {
+                "flexDirection": "column",
+                "justifyContent": "space-between",
+              }
+            }
+          >
+            <Text
+              style={{}}
+            >
+              119 km away
+            </Text>
+            <Text
+              style={{}}
+            >
+              Apr
+              . 
+              10
+               - 
+              20
+            </Text>
+          </View>
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "justifyContent": "flex-start",
+                "marginTop": 10,
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "fontSize": 16,
+                  "fontWeight": "bold",
+                }
+              }
+            >
+              €
+              350
+            </Text>
+            <Text
+              style={
+                {
+                  "marginLeft": 5,
+                }
+              }
+            >
+              EUR
+            </Text>
+            <Text
+              style={
+                {
+                  "marginLeft": 5,
+                }
+              }
+            >
+              Per Night
+            </Text>
+          </View>
+        </View>
+        <View
+          style={
+            {
+              "marginBottom": 20,
+            }
+          }
+        >
+          <View
+            style={
+              {
+                "height": 300,
+                "position": "relative",
+                "width": 750,
+              }
+            }
+          >
+            <RCTScrollView
+              data={
+                [
+                  "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677938895/upload/yk36xc9txpamhheuxqh2.webp",
+                  "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677939722/upload/ci9iwb8aoezzro1desld.jpg",
+                  "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677938895/upload/pfpit6mcoe798hh3r8pf.webp",
+                  "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677938896/upload/m6q1hovlweat1zvb5sf6.webp",
+                  "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677938896/upload/fyenbpclzhxy9n4zsglt.webp",
+                ]
+              }
+              getItem={[Function]}
+              getItemCount={[Function]}
+              horizontal={true}
+              keyExtractor={[Function]}
+              onContentSizeChange={[Function]}
+              onLayout={[Function]}
+              onMomentumScrollBegin={[Function]}
+              onMomentumScrollEnd={[Function]}
+              onScroll={[Function]}
+              onScrollBeginDrag={[Function]}
+              onScrollEndDrag={[Function]}
+              pagingEnabled={true}
+              removeClippedSubviews={false}
+              renderItem={[Function]}
+              scrollEventThrottle={0.0001}
+              showsHorizontalScrollIndicator={false}
+              stickyHeaderIndices={[]}
+              viewabilityConfigCallbackPairs={[]}
+            >
+              <View>
+                <View
+                  onFocusCapture={[Function]}
+                  onLayout={[Function]}
+                  style={
+                    [
+                      {
+                        "flexDirection": "row",
+                      },
+                      null,
+                    ]
+                  }
+                >
+                  <Image
+                    source={
+                      {
+                        "uri": "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677938895/upload/yk36xc9txpamhheuxqh2.webp",
+                      }
+                    }
+                    style={
+                      {
+                        "height": "100%",
+                        "resizeMode": "cover",
+                        "width": 750,
+                      }
+                    }
+                  />
+                </View>
+                <View
+                  onFocusCapture={[Function]}
+                  onLayout={[Function]}
+                  style={
+                    [
+                      {
+                        "flexDirection": "row",
+                      },
+                      null,
+                    ]
+                  }
+                >
+                  <Image
+                    source={
+                      {
+                        "uri": "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677939722/upload/ci9iwb8aoezzro1desld.jpg",
+                      }
+                    }
+                    style={
+                      {
+                        "height": "100%",
+                        "resizeMode": "cover",
+                        "width": 750,
+                      }
+                    }
+                  />
+                </View>
+                <View
+                  onFocusCapture={[Function]}
+                  onLayout={[Function]}
+                  style={
+                    [
+                      {
+                        "flexDirection": "row",
+                      },
+                      null,
+                    ]
+                  }
+                >
+                  <Image
+                    source={
+                      {
+                        "uri": "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677938895/upload/pfpit6mcoe798hh3r8pf.webp",
+                      }
+                    }
+                    style={
+                      {
+                        "height": "100%",
+                        "resizeMode": "cover",
+                        "width": 750,
+                      }
+                    }
+                  />
+                </View>
+                <View
+                  onFocusCapture={[Function]}
+                  onLayout={[Function]}
+                  style={
+                    [
+                      {
+                        "flexDirection": "row",
+                      },
+                      null,
+                    ]
+                  }
+                >
+                  <Image
+                    source={
+                      {
+                        "uri": "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677938896/upload/m6q1hovlweat1zvb5sf6.webp",
+                      }
+                    }
+                    style={
+                      {
+                        "height": "100%",
+                        "resizeMode": "cover",
+                        "width": 750,
+                      }
+                    }
+                  />
+                </View>
+                <View
+                  onFocusCapture={[Function]}
+                  onLayout={[Function]}
+                  style={
+                    [
+                      {
+                        "flexDirection": "row",
+                      },
+                      null,
+                    ]
+                  }
+                >
+                  <Image
+                    source={
+                      {
+                        "uri": "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677938896/upload/fyenbpclzhxy9n4zsglt.webp",
+                      }
+                    }
+                    style={
+                      {
+                        "height": "100%",
+                        "resizeMode": "cover",
+                        "width": 750,
+                      }
+                    }
+                  />
+                </View>
+              </View>
+            </RCTScrollView>
+            <View
+              style={
+                {
+                  "alignItems": "center",
+                  "flexDirection": "row",
+                  "justifyContent": "space-between",
+                  "left": 10,
+                  "position": "absolute",
+                  "right": 50,
+                  "top": 10,
+                }
+              }
+            >
+              <Text
+                style={
+                  {
+                    "backgroundColor": "rgba(0, 0, 0, 0.4)",
+                    "borderRadius": 5,
+                    "color": "#fff",
+                    "fontSize": 16,
+                    "paddingHorizontal": 8,
+                    "paddingVertical": 4,
+                  }
+                }
+              >
+                Favorite
+              </Text>
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "#000000",
+                      "fontSize": 24,
+                    },
+                    undefined,
+                    {
+                      "fontFamily": "Ionicons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                
+              </Text>
+            </View>
+            <View
+              style={
+                {
+                  "bottom": 10,
+                  "flexDirection": "row",
+                  "justifyContent": "center",
+                  "left": 0,
+                  "position": "absolute",
+                  "right": 0,
+                }
+              }
+            >
+              <View
+                style={
+                  [
+                    {
+                      "backgroundColor": "rgba(255, 255, 255, 0.8)",
+                      "borderRadius": 4,
+                      "height": 8,
+                      "marginHorizontal": 4,
+                      "width": 8,
+                    },
+                    {
+                      "backgroundColor": "#fff",
+                    },
+                  ]
+                }
+              />
+              <View
+                style={
+                  [
+                    {
+                      "backgroundColor": "rgba(255, 255, 255, 0.8)",
+                      "borderRadius": 4,
+                      "height": 8,
+                      "marginHorizontal": 4,
+                      "width": 8,
+                    },
+                    false,
+                  ]
+                }
+              />
+              <View
+                style={
+                  [
+                    {
+                      "backgroundColor": "rgba(255, 255, 255, 0.8)",
+                      "borderRadius": 4,
+                      "height": 8,
+                      "marginHorizontal": 4,
+                      "width": 8,
+                    },
+                    false,
+                  ]
+                }
+              />
+              <View
+                style={
+                  [
+                    {
+                      "backgroundColor": "rgba(255, 255, 255, 0.8)",
+                      "borderRadius": 4,
+                      "height": 8,
+                      "marginHorizontal": 4,
+                      "width": 8,
+                    },
+                    false,
+                  ]
+                }
+              />
+              <View
+                style={
+                  [
+                    {
+                      "backgroundColor": "rgba(255, 255, 255, 0.8)",
+                      "borderRadius": 4,
+                      "height": 8,
+                      "marginHorizontal": 4,
+                      "width": 8,
+                    },
+                    false,
+                  ]
+                }
+              />
+            </View>
+          </View>
+          <View
+            style={
+              {
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+                "marginVertical": 10,
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "fontSize": 20,
+                  "fontWeight": "500",
+                }
+              }
+            >
+              Bayern
+              , 
+              Germany
+            </Text>
+            <View
+              style={
+                {
+                  "alignItems": "center",
+                  "flexDirection": "row",
+                  "justifyContent": "center",
+                }
+              }
+            >
+              <View
+                style={
+                  {
+                    "alignItems": "center",
+                    "flexDirection": "row",
+                    "justifyContent": "center",
+                  }
+                }
+              >
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "#f0c419",
+                        "fontSize": 16,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Ionicons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                >
+                  
+                </Text>
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "#f0c419",
+                        "fontSize": 16,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Ionicons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                >
+                  
+                </Text>
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "#f0c419",
+                        "fontSize": 16,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Ionicons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                >
+                  
+                </Text>
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "#f0c419",
+                        "fontSize": 16,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Ionicons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                >
+                  
+                </Text>
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "#f0c419",
+                        "fontSize": 16,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Ionicons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                >
+                  
+                </Text>
+              </View>
+              <Text>
+                4.6
+              </Text>
+            </View>
+          </View>
+          <View
+            style={
+              {
+                "flexDirection": "column",
+                "justifyContent": "space-between",
+              }
+            }
+          >
+            <Text
+              style={{}}
+            >
+              119 km away
+            </Text>
+            <Text
+              style={{}}
+            >
+              May
+              . 
+              15
+               - 
+              22
+            </Text>
+          </View>
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "justifyContent": "flex-start",
+                "marginTop": 10,
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "fontSize": 16,
+                  "fontWeight": "bold",
+                }
+              }
+            >
+              €
+              240
+            </Text>
+            <Text
+              style={
+                {
+                  "marginLeft": 5,
+                }
+              }
+            >
+              EUR
+            </Text>
+            <Text
+              style={
+                {
+                  "marginLeft": 5,
+                }
+              }
+            >
+              Per Night
+            </Text>
+          </View>
+        </View>
+        <View
+          style={
+            {
+              "marginBottom": 20,
+            }
+          }
+        >
+          <View
+            style={
+              {
+                "height": 300,
+                "position": "relative",
+                "width": 750,
+              }
+            }
+          >
+            <RCTScrollView
+              data={
+                [
+                  "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677939722/upload/oib9btodfulkeedx1waq.jpg",
+                  "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677938895/upload/edtalg3eyh1mghn2qf1j.webp",
+                  "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677938895/upload/wwlqxyvaj7x93m1qbows.webp",
+                  "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677938895/upload/ognjk7gfqkxhhym9fu8b.webp",
+                  "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677938895/upload/atenel1fqmexaomvalpz.webp",
+                ]
+              }
+              getItem={[Function]}
+              getItemCount={[Function]}
+              horizontal={true}
+              keyExtractor={[Function]}
+              onContentSizeChange={[Function]}
+              onLayout={[Function]}
+              onMomentumScrollBegin={[Function]}
+              onMomentumScrollEnd={[Function]}
+              onScroll={[Function]}
+              onScrollBeginDrag={[Function]}
+              onScrollEndDrag={[Function]}
+              pagingEnabled={true}
+              removeClippedSubviews={false}
+              renderItem={[Function]}
+              scrollEventThrottle={0.0001}
+              showsHorizontalScrollIndicator={false}
+              stickyHeaderIndices={[]}
+              viewabilityConfigCallbackPairs={[]}
+            >
+              <View>
+                <View
+                  onFocusCapture={[Function]}
+                  onLayout={[Function]}
+                  style={
+                    [
+                      {
+                        "flexDirection": "row",
+                      },
+                      null,
+                    ]
+                  }
+                >
+                  <Image
+                    source={
+                      {
+                        "uri": "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677939722/upload/oib9btodfulkeedx1waq.jpg",
+                      }
+                    }
+                    style={
+                      {
+                        "height": "100%",
+                        "resizeMode": "cover",
+                        "width": 750,
+                      }
+                    }
+                  />
+                </View>
+                <View
+                  onFocusCapture={[Function]}
+                  onLayout={[Function]}
+                  style={
+                    [
+                      {
+                        "flexDirection": "row",
+                      },
+                      null,
+                    ]
+                  }
+                >
+                  <Image
+                    source={
+                      {
+                        "uri": "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677938895/upload/edtalg3eyh1mghn2qf1j.webp",
+                      }
+                    }
+                    style={
+                      {
+                        "height": "100%",
+                        "resizeMode": "cover",
+                        "width": 750,
+                      }
+                    }
+                  />
+                </View>
+                <View
+                  onFocusCapture={[Function]}
+                  onLayout={[Function]}
+                  style={
+                    [
+                      {
+                        "flexDirection": "row",
+                      },
+                      null,
+                    ]
+                  }
+                >
+                  <Image
+                    source={
+                      {
+                        "uri": "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677938895/upload/wwlqxyvaj7x93m1qbows.webp",
+                      }
+                    }
+                    style={
+                      {
+                        "height": "100%",
+                        "resizeMode": "cover",
+                        "width": 750,
+                      }
+                    }
+                  />
+                </View>
+                <View
+                  onFocusCapture={[Function]}
+                  onLayout={[Function]}
+                  style={
+                    [
+                      {
+                        "flexDirection": "row",
+                      },
+                      null,
+                    ]
+                  }
+                >
+                  <Image
+                    source={
+                      {
+                        "uri": "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677938895/upload/ognjk7gfqkxhhym9fu8b.webp",
+                      }
+                    }
+                    style={
+                      {
+                        "height": "100%",
+                        "resizeMode": "cover",
+                        "width": 750,
+                      }
+                    }
+                  />
+                </View>
+                <View
+                  onFocusCapture={[Function]}
+                  onLayout={[Function]}
+                  style={
+                    [
+                      {
+                        "flexDirection": "row",
+                      },
+                      null,
+                    ]
+                  }
+                >
+                  <Image
+                    source={
+                      {
+                        "uri": "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677938895/upload/atenel1fqmexaomvalpz.webp",
+                      }
+                    }
+                    style={
+                      {
+                        "height": "100%",
+                        "resizeMode": "cover",
+                        "width": 750,
+                      }
+                    }
+                  />
+                </View>
+              </View>
+            </RCTScrollView>
+            <View
+              style={
+                {
+                  "alignItems": "center",
+                  "flexDirection": "row",
+                  "justifyContent": "space-between",
+                  "left": 10,
+                  "position": "absolute",
+                  "right": 50,
+                  "top": 10,
+                }
+              }
+            >
+              <Text
+                style={
+                  {
+                    "backgroundColor": "rgba(0, 0, 0, 0.4)",
+                    "borderRadius": 5,
+                    "color": "#fff",
+                    "fontSize": 16,
+                    "paddingHorizontal": 8,
+                    "paddingVertical": 4,
+                  }
+                }
+              >
+                Favorite
+              </Text>
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "#000000",
+                      "fontSize": 24,
+                    },
+                    undefined,
+                    {
+                      "fontFamily": "Ionicons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                
+              </Text>
+            </View>
+            <View
+              style={
+                {
+                  "bottom": 10,
+                  "flexDirection": "row",
+                  "justifyContent": "center",
+                  "left": 0,
+                  "position": "absolute",
+                  "right": 0,
+                }
+              }
+            >
+              <View
+                style={
+                  [
+                    {
+                      "backgroundColor": "rgba(255, 255, 255, 0.8)",
+                      "borderRadius": 4,
+                      "height": 8,
+                      "marginHorizontal": 4,
+                      "width": 8,
+                    },
+                    {
+                      "backgroundColor": "#fff",
+                    },
+                  ]
+                }
+              />
+              <View
+                style={
+                  [
+                    {
+                      "backgroundColor": "rgba(255, 255, 255, 0.8)",
+                      "borderRadius": 4,
+                      "height": 8,
+                      "marginHorizontal": 4,
+                      "width": 8,
+                    },
+                    false,
+                  ]
+                }
+              />
+              <View
+                style={
+                  [
+                    {
+                      "backgroundColor": "rgba(255, 255, 255, 0.8)",
+                      "borderRadius": 4,
+                      "height": 8,
+                      "marginHorizontal": 4,
+                      "width": 8,
+                    },
+                    false,
+                  ]
+                }
+              />
+              <View
+                style={
+                  [
+                    {
+                      "backgroundColor": "rgba(255, 255, 255, 0.8)",
+                      "borderRadius": 4,
+                      "height": 8,
+                      "marginHorizontal": 4,
+                      "width": 8,
+                    },
+                    false,
+                  ]
+                }
+              />
+              <View
+                style={
+                  [
+                    {
+                      "backgroundColor": "rgba(255, 255, 255, 0.8)",
+                      "borderRadius": 4,
+                      "height": 8,
+                      "marginHorizontal": 4,
+                      "width": 8,
+                    },
+                    false,
+                  ]
+                }
+              />
+            </View>
+          </View>
+          <View
+            style={
+              {
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+                "marginVertical": 10,
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "fontSize": 20,
+                  "fontWeight": "500",
+                }
+              }
+            >
+              Bangkok
+              , 
+              Thailand
+            </Text>
+            <View
+              style={
+                {
+                  "alignItems": "center",
+                  "flexDirection": "row",
+                  "justifyContent": "center",
+                }
+              }
+            >
+              <View
+                style={
+                  {
+                    "alignItems": "center",
+                    "flexDirection": "row",
+                    "justifyContent": "center",
+                  }
+                }
+              >
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "#f0c419",
+                        "fontSize": 16,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Ionicons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                >
+                  
+                </Text>
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "#f0c419",
+                        "fontSize": 16,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Ionicons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                >
+                  
+                </Text>
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "#f0c419",
+                        "fontSize": 16,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Ionicons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                >
+                  
+                </Text>
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "#f0c419",
+                        "fontSize": 16,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Ionicons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                >
+                  
+                </Text>
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "#f0c419",
+                        "fontSize": 16,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Ionicons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                >
+                  
+                </Text>
+              </View>
+              <Text>
+                4.8
+              </Text>
+            </View>
+          </View>
+          <View
+            style={
+              {
+                "flexDirection": "column",
+                "justifyContent": "space-between",
+              }
+            }
+          >
+            <Text
+              style={{}}
+            >
+              119 km away
+            </Text>
+            <Text
+              style={{}}
+            >
+              Jun
+              . 
+              5
+               - 
+              12
+            </Text>
+          </View>
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "justifyContent": "flex-start",
+                "marginTop": 10,
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "fontSize": 16,
+                  "fontWeight": "bold",
+                }
+              }
+            >
+              €
+              260
+            </Text>
+            <Text
+              style={
+                {
+                  "marginLeft": 5,
+                }
+              }
+            >
+              EUR
+            </Text>
+            <Text
+              style={
+                {
+                  "marginLeft": 5,
+                }
+              }
+            >
+              Per Night
+            </Text>
+          </View>
+        </View>
+        <View
+          style={
+            {
+              "marginBottom": 20,
+            }
+          }
+        >
+          <View
+            style={
+              {
+                "height": 300,
+                "position": "relative",
+                "width": 750,
+              }
+            }
+          >
+            <RCTScrollView
+              data={
+                [
+                  "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677938895/upload/fyenbpclzhxy9n4zsglt.webp",
+                  "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677938895/upload/eocmtcw0gzlloomdpvtq.webp",
+                  "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677938896/upload/xn3fkin9o1bexstjsjxo.webp",
+                  "https://res.cloudinary.com/dtxze8vwn/image/upload/v1661101233/cld-sample-2.jpg",
+                  "https://res.cloudinary.com/dtxze8vwn/image/upload/v1661166924/upload/gtp8mtrpkurqbmpat2ce.jpg",
+                ]
+              }
+              getItem={[Function]}
+              getItemCount={[Function]}
+              horizontal={true}
+              keyExtractor={[Function]}
+              onContentSizeChange={[Function]}
+              onLayout={[Function]}
+              onMomentumScrollBegin={[Function]}
+              onMomentumScrollEnd={[Function]}
+              onScroll={[Function]}
+              onScrollBeginDrag={[Function]}
+              onScrollEndDrag={[Function]}
+              pagingEnabled={true}
+              removeClippedSubviews={false}
+              renderItem={[Function]}
+              scrollEventThrottle={0.0001}
+              showsHorizontalScrollIndicator={false}
+              stickyHeaderIndices={[]}
+              viewabilityConfigCallbackPairs={[]}
+            >
+              <View>
+                <View
+                  onFocusCapture={[Function]}
+                  onLayout={[Function]}
+                  style={
+                    [
+                      {
+                        "flexDirection": "row",
+                      },
+                      null,
+                    ]
+                  }
+                >
+                  <Image
+                    source={
+                      {
+                        "uri": "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677938895/upload/fyenbpclzhxy9n4zsglt.webp",
+                      }
+                    }
+                    style={
+                      {
+                        "height": "100%",
+                        "resizeMode": "cover",
+                        "width": 750,
+                      }
+                    }
+                  />
+                </View>
+                <View
+                  onFocusCapture={[Function]}
+                  onLayout={[Function]}
+                  style={
+                    [
+                      {
+                        "flexDirection": "row",
+                      },
+                      null,
+                    ]
+                  }
+                >
+                  <Image
+                    source={
+                      {
+                        "uri": "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677938895/upload/eocmtcw0gzlloomdpvtq.webp",
+                      }
+                    }
+                    style={
+                      {
+                        "height": "100%",
+                        "resizeMode": "cover",
+                        "width": 750,
+                      }
+                    }
+                  />
+                </View>
+                <View
+                  onFocusCapture={[Function]}
+                  onLayout={[Function]}
+                  style={
+                    [
+                      {
+                        "flexDirection": "row",
+                      },
+                      null,
+                    ]
+                  }
+                >
+                  <Image
+                    source={
+                      {
+                        "uri": "https://res.cloudinary.com/dtxze8vwn/image/upload/v1677938896/upload/xn3fkin9o1bexstjsjxo.webp",
+                      }
+                    }
+                    style={
+                      {
+                        "height": "100%",
+                        "resizeMode": "cover",
+                        "width": 750,
+                      }
+                    }
+                  />
+                </View>
+                <View
+                  onFocusCapture={[Function]}
+                  onLayout={[Function]}
+                  style={
+                    [
+                      {
+                        "flexDirection": "row",
+                      },
+                      null,
+                    ]
+                  }
+                >
+                  <Image
+                    source={
+                      {
+                        "uri": "https://res.cloudinary.com/dtxze8vwn/image/upload/v1661101233/cld-sample-2.jpg",
+                      }
+                    }
+                    style={
+                      {
+                        "height": "100%",
+                        "resizeMode": "cover",
+                        "width": 750,
+                      }
+                    }
+                  />
+                </View>
+                <View
+                  onFocusCapture={[Function]}
+                  onLayout={[Function]}
+                  style={
+                    [
+                      {
+                        "flexDirection": "row",
+                      },
+                      null,
+                    ]
+                  }
+                >
+                  <Image
+                    source={
+                      {
+                        "uri": "https://res.cloudinary.com/dtxze8vwn/image/upload/v1661166924/upload/gtp8mtrpkurqbmpat2ce.jpg",
+                      }
+                    }
+                    style={
+                      {
+                        "height": "100%",
+                        "resizeMode": "cover",
+                        "width": 750,
+                      }
+                    }
+                  />
+                </View>
+              </View>
+            </RCTScrollView>
+            <View
+              style={
+                {
+                  "alignItems": "center",
+                  "flexDirection": "row",
+                  "justifyContent": "space-between",
+                  "left": 10,
+                  "position": "absolute",
+                  "right": 50,
+                  "top": 10,
+                }
+              }
+            >
+              <Text
+                style={
+                  {
+                    "backgroundColor": "rgba(0, 0, 0, 0.4)",
+                    "borderRadius": 5,
+                    "color": "#fff",
+                    "fontSize": 16,
+                    "paddingHorizontal": 8,
+                    "paddingVertical": 4,
+                  }
+                }
+              >
+                Favorite
+              </Text>
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "#000000",
+                      "fontSize": 24,
+                    },
+                    undefined,
+                    {
+                      "fontFamily": "Ionicons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                
+              </Text>
+            </View>
+            <View
+              style={
+                {
+                  "bottom": 10,
+                  "flexDirection": "row",
+                  "justifyContent": "center",
+                  "left": 0,
+                  "position": "absolute",
+                  "right": 0,
+                }
+              }
+            >
+              <View
+                style={
+                  [
+                    {
+                      "backgroundColor": "rgba(255, 255, 255, 0.8)",
+                      "borderRadius": 4,
+                      "height": 8,
+                      "marginHorizontal": 4,
+                      "width": 8,
+                    },
+                    {
+                      "backgroundColor": "#fff",
+                    },
+                  ]
+                }
+              />
+              <View
+                style={
+                  [
+                    {
+                      "backgroundColor": "rgba(255, 255, 255, 0.8)",
+                      "borderRadius": 4,
+                      "height": 8,
+                      "marginHorizontal": 4,
+                      "width": 8,
+                    },
+                    false,
+                  ]
+                }
+              />
+              <View
+                style={
+                  [
+                    {
+                      "backgroundColor": "rgba(255, 255, 255, 0.8)",
+                      "borderRadius": 4,
+                      "height": 8,
+                      "marginHorizontal": 4,
+                      "width": 8,
+                    },
+                    false,
+                  ]
+                }
+              />
+              <View
+                style={
+                  [
+                    {
+                      "backgroundColor": "rgba(255, 255, 255, 0.8)",
+                      "borderRadius": 4,
+                      "height": 8,
+                      "marginHorizontal": 4,
+                      "width": 8,
+                    },
+                    false,
+                  ]
+                }
+              />
+              <View
+                style={
+                  [
+                    {
+                      "backgroundColor": "rgba(255, 255, 255, 0.8)",
+                      "borderRadius": 4,
+                      "height": 8,
+                      "marginHorizontal": 4,
+                      "width": 8,
+                    },
+                    false,
+                  ]
+                }
+              />
+            </View>
+          </View>
+          <View
+            style={
+              {
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+                "marginVertical": 10,
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "fontSize": 20,
+                  "fontWeight": "500",
+                }
+              }
+            >
+              Oslo
+              , 
+              Norway
+            </Text>
+            <View
+              style={
+                {
+                  "alignItems": "center",
+                  "flexDirection": "row",
+                  "justifyContent": "center",
+                }
+              }
+            >
+              <View
+                style={
+                  {
+                    "alignItems": "center",
+                    "flexDirection": "row",
+                    "justifyContent": "center",
+                  }
+                }
+              >
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "#f0c419",
+                        "fontSize": 16,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Ionicons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                >
+                  
+                </Text>
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "#f0c419",
+                        "fontSize": 16,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Ionicons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                >
+                  
+                </Text>
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "#f0c419",
+                        "fontSize": 16,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Ionicons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                >
+                  
+                </Text>
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "#f0c419",
+                        "fontSize": 16,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Ionicons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                >
+                  
+                </Text>
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "#f0c419",
+                        "fontSize": 16,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Ionicons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                >
+                  
+                </Text>
+              </View>
+              <Text>
+                4.7
+              </Text>
+            </View>
+          </View>
+          <View
+            style={
+              {
+                "flexDirection": "column",
+                "justifyContent": "space-between",
+              }
+            }
+          >
+            <Text
+              style={{}}
+            >
+              119 km away
+            </Text>
+            <Text
+              style={{}}
+            >
+              Jul
+              . 
+              1
+               - 
+              10
+            </Text>
+          </View>
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "justifyContent": "flex-start",
+                "marginTop": 10,
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "fontSize": 16,
+                  "fontWeight": "bold",
+                }
+              }
+            >
+              €
+              310
+            </Text>
+            <Text
+              style={
+                {
+                  "marginLeft": 5,
+                }
+              }
+            >
+              EUR
+            </Text>
+            <Text
+              style={
+                {
+                  "marginLeft": 5,
+                }
+              }
+            >
+              Per Night
+            </Text>
+          </View>
+        </View>
+      </View>
+    </RCTScrollView>
+  </View>
+</RCTSafeAreaView>
+`;

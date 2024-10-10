@@ -1,0 +1,663 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Cribs Component renders correctly 1`] = `
+<RCTScrollView
+  contentContainerStyle={
+    {
+      "flexDirection": "row",
+    }
+  }
+  horizontal={true}
+  showsHorizontalScrollIndicator={false}
+  style={
+    {
+      "paddingVertical": 20,
+    }
+  }
+>
+  <View>
+    <View
+      style={
+        {
+          "alignItems": "flex-start",
+          "height": 60,
+          "justifyContent": "center",
+          "marginHorizontal": 10,
+          "width": 60,
+        }
+      }
+      testID="crib-item"
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "justifyContent": "center",
+          }
+        }
+      >
+        <View
+          testID="icon-0"
+        >
+          <Text
+            allowFontScaling={false}
+            selectable={false}
+            style={
+              [
+                {
+                  "color": "rgba(103, 80, 164, 1)",
+                  "fontSize": 24,
+                },
+                undefined,
+                {
+                  "fontFamily": "FontAwesome",
+                  "fontStyle": "normal",
+                  "fontWeight": "normal",
+                },
+                {},
+              ]
+            }
+          >
+            
+          </Text>
+        </View>
+        <Text
+          style={
+            {
+              "fontSize": 10,
+              "marginTop": 5,
+            }
+          }
+          testID="title-0"
+        >
+          Iconic
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        {
+          "alignItems": "flex-start",
+          "height": 60,
+          "justifyContent": "center",
+          "marginHorizontal": 10,
+          "width": 60,
+        }
+      }
+      testID="crib-item"
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "justifyContent": "center",
+          }
+        }
+      >
+        <View
+          testID="icon-2"
+        >
+          <Text
+            allowFontScaling={false}
+            selectable={false}
+            style={
+              [
+                {
+                  "color": "rgba(103, 80, 164, 1)",
+                  "fontSize": 24,
+                },
+                undefined,
+                {
+                  "fontFamily": "Material Icons",
+                  "fontStyle": "normal",
+                  "fontWeight": "normal",
+                },
+                {},
+              ]
+            }
+          >
+            
+          </Text>
+        </View>
+        <Text
+          style={
+            {
+              "fontSize": 10,
+              "marginTop": 5,
+            }
+          }
+          testID="title-2"
+        >
+          Cabins
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        {
+          "alignItems": "flex-start",
+          "height": 60,
+          "justifyContent": "center",
+          "marginHorizontal": 10,
+          "width": 60,
+        }
+      }
+      testID="crib-item"
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "justifyContent": "center",
+          }
+        }
+      >
+        <View
+          testID="icon-3"
+        >
+          <Text
+            allowFontScaling={false}
+            selectable={false}
+            style={
+              [
+                {
+                  "color": "rgba(103, 80, 164, 1)",
+                  "fontSize": 24,
+                },
+                undefined,
+                {
+                  "fontFamily": "FontAwesome5Free-Solid",
+                  "fontStyle": "normal",
+                  "fontWeight": "normal",
+                },
+                {
+                  "fontWeight": "900",
+                },
+              ]
+            }
+          >
+            
+          </Text>
+        </View>
+        <Text
+          style={
+            {
+              "fontSize": 10,
+              "marginTop": 5,
+            }
+          }
+          testID="title-3"
+        >
+          OMG!
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        {
+          "alignItems": "flex-start",
+          "height": 60,
+          "justifyContent": "center",
+          "marginHorizontal": 10,
+          "width": 60,
+        }
+      }
+      testID="crib-item"
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "justifyContent": "center",
+          }
+        }
+      >
+        <View
+          testID="icon-4"
+        >
+          <Text
+            allowFontScaling={false}
+            selectable={false}
+            style={
+              [
+                {
+                  "color": "rgba(103, 80, 164, 1)",
+                  "fontSize": 24,
+                },
+                undefined,
+                {
+                  "fontFamily": "Material Design Icons",
+                  "fontStyle": "normal",
+                  "fontWeight": "normal",
+                },
+                {},
+              ]
+            }
+          >
+            󱊠
+          </Text>
+        </View>
+        <Text
+          style={
+            {
+              "fontSize": 10,
+              "marginTop": 5,
+            }
+          }
+          testID="title-4"
+        >
+          Beach front
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        {
+          "alignItems": "flex-start",
+          "height": 60,
+          "justifyContent": "center",
+          "marginHorizontal": 10,
+          "width": 60,
+        }
+      }
+      testID="crib-item"
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "justifyContent": "center",
+          }
+        }
+      >
+        <View
+          testID="icon-5"
+        >
+          <Text
+            allowFontScaling={false}
+            selectable={false}
+            style={
+              [
+                {
+                  "color": "rgba(103, 80, 164, 1)",
+                  "fontSize": 24,
+                },
+                undefined,
+                {
+                  "fontFamily": "Material Icons",
+                  "fontStyle": "normal",
+                  "fontWeight": "normal",
+                },
+                {},
+              ]
+            }
+          >
+            
+          </Text>
+        </View>
+        <Text
+          style={
+            {
+              "fontSize": 10,
+              "marginTop": 5,
+            }
+          }
+          testID="title-5"
+        >
+          Tiny homes
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        {
+          "alignItems": "flex-start",
+          "height": 60,
+          "justifyContent": "center",
+          "marginHorizontal": 10,
+          "width": 60,
+        }
+      }
+      testID="crib-item"
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "justifyContent": "center",
+          }
+        }
+      >
+        <View
+          testID="icon-6"
+        >
+          <Text
+            allowFontScaling={false}
+            selectable={false}
+            style={
+              [
+                {
+                  "color": "rgba(103, 80, 164, 1)",
+                  "fontSize": 24,
+                },
+                undefined,
+                {
+                  "fontFamily": "Material Design Icons",
+                  "fontStyle": "normal",
+                  "fontWeight": "normal",
+                },
+                {},
+              ]
+            }
+          >
+            󰼪
+          </Text>
+        </View>
+        <Text
+          style={
+            {
+              "fontSize": 10,
+              "marginTop": 5,
+            }
+          }
+          testID="title-6"
+        >
+          Lake fron
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        {
+          "alignItems": "flex-start",
+          "height": 60,
+          "justifyContent": "center",
+          "marginHorizontal": 10,
+          "width": 60,
+        }
+      }
+      testID="crib-item"
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "justifyContent": "center",
+          }
+        }
+      >
+        <View
+          testID="icon-7"
+        >
+          <Text
+            allowFontScaling={false}
+            selectable={false}
+            style={
+              [
+                {
+                  "color": "rgba(103, 80, 164, 1)",
+                  "fontSize": 24,
+                },
+                undefined,
+                {
+                  "fontFamily": "FontAwesome6Free-Solid",
+                  "fontStyle": "normal",
+                  "fontWeight": "normal",
+                },
+                {
+                  "fontWeight": "900",
+                },
+              ]
+            }
+          >
+            
+          </Text>
+        </View>
+        <Text
+          style={
+            {
+              "fontSize": 10,
+              "marginTop": 5,
+            }
+          }
+          testID="title-7"
+        >
+          Luxury
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        {
+          "alignItems": "flex-start",
+          "height": 60,
+          "justifyContent": "center",
+          "marginHorizontal": 10,
+          "width": 60,
+        }
+      }
+      testID="crib-item"
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "justifyContent": "center",
+          }
+        }
+      >
+        <View
+          testID="icon-8"
+        >
+          <Text
+            allowFontScaling={false}
+            selectable={false}
+            style={
+              [
+                {
+                  "color": "rgba(103, 80, 164, 1)",
+                  "fontSize": 24,
+                },
+                undefined,
+                {
+                  "fontFamily": "Material Design Icons",
+                  "fontStyle": "normal",
+                  "fontWeight": "normal",
+                },
+                {},
+              ]
+            }
+          >
+            󰨀
+          </Text>
+        </View>
+        <Text
+          style={
+            {
+              "fontSize": 10,
+              "marginTop": 5,
+            }
+          }
+          testID="title-8"
+        >
+          Amazing
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        {
+          "alignItems": "flex-start",
+          "height": 60,
+          "justifyContent": "center",
+          "marginHorizontal": 10,
+          "width": 60,
+        }
+      }
+      testID="crib-item"
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "justifyContent": "center",
+          }
+        }
+      >
+        <View
+          testID="icon-9"
+        >
+          <Text
+            allowFontScaling={false}
+            selectable={false}
+            style={
+              [
+                {
+                  "color": "rgba(103, 80, 164, 1)",
+                  "fontSize": 24,
+                },
+                undefined,
+                {
+                  "fontFamily": "fontcustom",
+                  "fontStyle": "normal",
+                  "fontWeight": "normal",
+                },
+                {},
+              ]
+            }
+          >
+            
+          </Text>
+        </View>
+        <Text
+          style={
+            {
+              "fontSize": 10,
+              "marginTop": 5,
+            }
+          }
+          testID="title-9"
+        >
+          Tree houses
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        {
+          "alignItems": "flex-start",
+          "height": 60,
+          "justifyContent": "center",
+          "marginHorizontal": 10,
+          "width": 60,
+        }
+      }
+      testID="crib-item"
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "justifyContent": "center",
+          }
+        }
+      >
+        <View
+          testID="icon-10"
+        >
+          <Text
+            allowFontScaling={false}
+            selectable={false}
+            style={
+              [
+                {
+                  "color": "rgba(103, 80, 164, 1)",
+                  "fontSize": 24,
+                },
+                undefined,
+                {
+                  "fontFamily": "Material Icons",
+                  "fontStyle": "normal",
+                  "fontWeight": "normal",
+                },
+                {},
+              ]
+            }
+          >
+            
+          </Text>
+        </View>
+        <Text
+          style={
+            {
+              "fontSize": 10,
+              "marginTop": 5,
+            }
+          }
+          testID="title-10"
+        >
+          Castles
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        {
+          "alignItems": "flex-start",
+          "height": 60,
+          "justifyContent": "center",
+          "marginHorizontal": 10,
+          "width": 60,
+        }
+      }
+      testID="crib-item"
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "justifyContent": "center",
+          }
+        }
+      >
+        <View
+          testID="icon-11"
+        >
+          <Text
+            allowFontScaling={false}
+            selectable={false}
+            style={
+              [
+                {
+                  "color": "rgba(103, 80, 164, 1)",
+                  "fontSize": 24,
+                },
+                undefined,
+                {
+                  "fontFamily": "Material Design Icons",
+                  "fontStyle": "normal",
+                  "fontWeight": "normal",
+                },
+                {},
+              ]
+            }
+          >
+            󱢭
+          </Text>
+        </View>
+        <Text
+          style={
+            {
+              "fontSize": 10,
+              "marginTop": 5,
+            }
+          }
+          testID="title-11"
+        >
+          Play homes
+        </Text>
+      </View>
+    </View>
+  </View>
+</RCTScrollView>
+`;
